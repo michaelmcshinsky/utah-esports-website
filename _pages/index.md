@@ -47,7 +47,7 @@ permalink: /
   {% endif %}
 </div>
 
-<!-- <img src="/assets/images/home/utah-esports-banner-7.jpg" alt="banner"/> -->
+<!-- <img src="{{ '/' | relative_url }}assets/images/home/utah-esports-banner-7.jpg" alt="banner"/> -->
 
 <div class="heading" style="margin-top: 0;">
   <h3>
@@ -103,7 +103,7 @@ permalink: /
   <div class="col-xs-12 col-sm-4 col-md-4">
     <div class="card">
       <div class="card-image">
-        <img src="/assets/images/home/teams-and-clubs.jpg" alt="Teams and Clubs" style="width:100%;"/>
+        <img src="{{ '/' | relative_url }}assets/images/home/teams-and-clubs.jpg" alt="Teams and Clubs" style="width:100%;"/>
         <div class="card-image-title">
           <h3>Teams &amp; Clubs <a class="btn btn--primary" href="/teams-and-clubs">See More</a></h3>
         </div>
@@ -113,7 +113,7 @@ permalink: /
   <div class="col-xs-12 col-sm-4 col-md-4">
     <div class="card">
       <div class="card-image">
-        <img src="/assets/images/home/streams-and-videos.jpg" alt="Streams and Videos" style="width:100%;"/>
+        <img src="{{ '/' | relative_url }}assets/images/home/streams-and-videos.jpg" alt="Streams and Videos" style="width:100%;"/>
         <div class="card-image-title">
           <h3>Streams &amp; Videos <a class="btn btn--primary" href="/streams">See More</a></h3>
         </div>
@@ -123,7 +123,7 @@ permalink: /
   <div class="col-xs-12 col-sm-4 col-md-4">
     <div class="card">
       <div class="card-image">
-        <img src="/assets/images/home/social-groups.jpg" alt="Social Groups" style="width:100%;"/>
+        <img src="{{ '/' | relative_url }}assets/images/home/social-groups.jpg" alt="Social Groups" style="width:100%;"/>
         <div class="card-image-title">
           <h3>Social Groups <a class="btn btn--primary" href="/social-groups">See More</a></h3>
         </div>
