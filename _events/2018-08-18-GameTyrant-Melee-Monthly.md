@@ -6,9 +6,9 @@ event_url: "https://www.facebook.com/events/243179846498035/"
 event_image: "/assets/images/events/2018-08-18-GameTyrant-Melee-Monthly.jpg"
 excerpt: "GameTyrant's Alex Refresh are excited to host another Melee Touranment."
 start_date: 2018-08-18
-start_time: 12:00:00
+start_time: 12:00:00 PM
 end_date: 2018-08-18
-end_time: 21:00:00
+end_time: 09:00:00 PM
 venue_title: "Game Tyrant"
 venue_address_1: "650 N Main St"
 venue_address_2:

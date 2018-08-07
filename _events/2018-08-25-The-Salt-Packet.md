@@ -6,9 +6,9 @@ event_url: "https://smash.gg/tournament/the-salt-packet"
 event_image: "/assets/images/events/2018-08-25-The-Salt-Packet.jpg"
 excerpt: "The Salt Packet is bringing to the table what many of our Utahn players love-- Money Matches. That's right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone's Cloud after a terrible bracket run? Ever needed to prove to BestNess that YOU are the best Kirby and nobody else can beat it? Think you can bring the best Clairen Utah has ever seen? Well here's your chance to prove it. And maybe make a little money too."
 start_date: 2018-08-25
-start_time: 12:00:00
+start_time: 12:00:00 PM
 end_date: 2018-08-25
-end_time: 21:00:00
+end_time: 09:00:00 PM
 venue_title: "Game Tyrant"
 venue_address_1: "650 N Main St"
 venue_address_2:

@@ -6,9 +6,9 @@ event_url: "http://getlanlocked.com/"
 event_image: "/assets/images/events/2018-09-06-Get-Lanlocked.jpg"
 excerpt: "Two of our favorite things are LAN parties, and vacations, and we've had a vision for a long time of combining the two."
 start_date: 2018-09-06
-start_time: 10:00:00
+start_time: 10:00:00 AM
 end_date: 2018-09-09
-end_time: 10:00:00
+end_time: 10:00:00 AM
 venue_title: "Vacation Home"
 venue_address_1: 
 venue_address_2:

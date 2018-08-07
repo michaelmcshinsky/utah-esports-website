@@ -6,9 +6,9 @@ event_url: "https://www.facebook.com/events/187499151924321/"
 event_image: "/assets/images/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament.jpg"
 excerpt: "Doors open at NOON! $15 Entry. $5 of entry goes to the Prize Pot Double Elimination Head to head event."
 start_date: 2018-09-01
-start_time: 12:00:00
+start_time: 12:00:00 PM
 end_date: 2018-09-01
-end_time: 21:00:00
+end_time: 09:00:00 PM
 venue_title: "Game Tyrant"
 venue_address_1: "650 N Main St"
 venue_address_2:
