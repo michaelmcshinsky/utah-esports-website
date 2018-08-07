@@ -6,9 +6,9 @@ event_url: "https://www.facebook.com/events/281973782556349/"
 event_image: "/assets/images/events/2018-08-03-August-Lan-Party.jpg"
 excerpt: "Bring out your rigs! Bring out your consoles! But most of all bring your beautiful self!"
 start_date: 2018-08-03
-start_time: 20:00:00
+start_time: 8:00:00 PM
 end_date: 2018-08-04
-end_time: 08:00:00
+end_time: 08:00:00 AM
 venue_title: "Game Tyrant"
 venue_address_1: "650 N Main St."
 venue_address_2:

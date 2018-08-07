@@ -7,9 +7,9 @@ event_image: "/assets/images/events/2018-11-02-GameTyrant-Expo.jpg"
 featured: true
 excerpt: "After the Legendary set of events that transpired last year in both Melee and Smash 4, GT-X returns November 2nd-4th at the Gateway Mall in Downtown Salt Lake City, Utah!"
 start_date: 2018-11-02
-start_time: 10:00:00
+start_time: 10:00:00 AM
 end_date: 2018-11-04
-end_time: 10:00:00
+end_time: 10:00:00 AM
 venue_title: "Gateway Mall"
 venue_address_1: "400 W 100 S"
 venue_address_2:

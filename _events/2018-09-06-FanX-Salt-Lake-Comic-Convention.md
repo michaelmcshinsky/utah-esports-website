@@ -7,9 +7,9 @@ event_image: "/assets/images/events/2018-09-06-FanX-Salt-Lake-Comic-Convention.j
 excerpt: "FanX® Salt Lake Comic Convention™s (formerly Salt Lake Comic Con) are Dan Farr Productions’ annual events, and are now the most attended conventions in the state of Utah and the largest comic convention in North America per capita. The conventions have attracted celebrities like Stan Lee, Chris Evans, Mark Hamill, Jeremy Renner, Elijah Wood, Dick Van Dyke, Tom Felton, Jason Momoa, Matt Smith, Sir Patrick Stewart, Buzz Aldrin and so many more."
 featured: true
 start_date: 2018-09-06
-start_time: 10:00:00
+start_time: 10:00:00 AM
 end_date: 2018-09-08
-end_time: 10:00:00
+end_time: 10:00:00 AM
 venue_title: "Salt Palace Convention Center"
 venue_address_1: "100 S West Temple"
 venue_address_2:
