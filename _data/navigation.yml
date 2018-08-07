@@ -13,17 +13,17 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Community"
-    url: /community/
+    url: /community
     children:
       - title: "Streams"
-        url: /streams/
+        url: /streams
       - title: "Social Groups"
-        url: /social-groups/
+        url: /social-groups
       - title: "Teams & Clubs"
-        url: /teams-and-clubs/
+        url: /teams-and-clubs
       - title: "Venues & Vendors"
-        url: /venues/
+        url: /venues
   - title: "Calendar"
-    url: /calendar/
+    url: /calendar
   - title: "Submit Event"
-    url: /submit-event/
+    url: /submit-event
