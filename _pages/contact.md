@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: /contact/
+permalink: /contact
 ---
 
 <div class="page-content">
