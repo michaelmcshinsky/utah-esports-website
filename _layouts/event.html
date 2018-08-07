@@ -38,7 +38,7 @@ layout: default
         <h3>Date and Time</h3>
         <time class="event-details-meta">
           <p class="event-dates">{{ page.start_date | date: "%B %d, %Y" }}  {% if page.end_date %}-{% endif %} {{ page.end_date | date: "%B %d, %Y" }}</p>
-          <p class="event-times">{{ page.start_time | date: "%r %p" }} {% if page.end_time %}-{{page.end_time | date: "%r %p" }}{% endif %}</p>
+          <p class="event-times">{{ page.start_time | date: "%I:%M %p" }} {% if page.end_time %}-{{page.end_time | date: "%I:%M %p" }}{% endif %}</p>
         </time>
         {% if page.event_url %}<a class="btn btn--primary" href="{{ page.event_url }}" target="_blank">View Event Page</a>{% endif %}
         {% if page.venue_address_1 or page.venue_city or page.venue_state %}
