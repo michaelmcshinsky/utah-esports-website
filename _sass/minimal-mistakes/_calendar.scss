@@ -1,0 +1,85 @@
+.fc-unthemed .fc-content, .fc-unthemed .fc-divider, .fc-unthemed .fc-list-heading td, .fc-unthemed .fc-list-view, .fc-unthemed .fc-popover, .fc-unthemed tbody, .fc-unthemed td, .fc-unthemed th, .fc-unthemed thead {
+  border-color: #101214 !important;
+  border-width: 4px !important;
+  background: #17191D;
+  font-size: 14px;
+}
+
+.fc .fc-row .fc-content-skeleton table, .fc .fc-row .fc-content-skeleton td, .fc .fc-row .fc-helper-skeleton td {
+  background: #17191D;
+  border-right-color: #101214 !important;
+  border-left-color: #101214 !important;
+}
+
+td.fc-day.fc-widget-content.fc-today,.fc-unthemed td.fc-today {
+  background: #17191D;
+}
+
+.fc-unthemed .fc-row {
+  border: none;
+}
+
+.fc-row:first-child table {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.fc-unthemed th {
+  padding: 10px;
+}
+
+.fc-ltr .fc-basic-view .fc-day-top .fc-day-number {
+  font-size: 14px;
+}
+
+td.fc-day-top {
+  border-right-color: #101214 !important;
+  border-left-color: #101214 !important;
+}
+
+span.fc-title {
+  background: #3a87ad;
+  color: #fff;
+  display: block;
+  padding-left: 3px;
+}
+
+.fc-day-grid-event {
+  border-radius: 1px;
+}
+
+td.fc-head-container.fc-widget-header {
+  border: none;
+}
+
+th.fc-day-header.fc-widget-header {
+  border: none;
+}
+
+.fc-state-default {
+  color: #fff;
+  background: none;
+  border: none;
+  box-shadow: none;
+  font-weight: 300;
+  opacity: 1;
+  font-size: 14px !important;
+}
+
+.fc .fc-toolbar>*>:first-child {
+  font-weight: 300;
+}
+
+div#calendar {
+  padding: 0 30px;
+  margin-top: 50px;
+}
+.fc-row.fc-widget-header {
+  border: none !important;
+}
+button.fc-button.fc-state-default {
+  background: none;
+  color: #fff;
+  box-shadow: none;
+  opacity: 1;
+}

@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+{% assign cb = '?client_id=94rhzyeshm8l6r2b50i994u4nissnf' %}
+{% assign url = "https://api.twitch.tv/kraken/" %}
+<div class="streams">
+  <div class="heading">
+    <h1>
+      {{ page.title }}
+      <a class="btn btn--default" href="/streams">Back to Streams</a>
+    </h1>
+  </div>
+  <hr style="margin-bottom: 40px;">
+  <div class="row">
+  {% assign counter = 0 %}
+  {% for streamer in site.data.streamers %}
+  {% if streamer.streams contains page.stream or page.stream == 'all' %}
+    {% assign counter = counter | plus: 1 %}
+      <div class="col-xs-6 col-sm-4 col-md-3" style="margin-bottom: 30px;">
+        <div class="stream-container">
+          <div id="{{ streamer.name }}"></div>
+        </div>
+      </div>
+      <script>
+        var streamUrl = "{{ url }}/streams/{{ streamer.name }}{{ cb }}"
+        var game, status;
+        fetch(streamUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            console.log(data)
+            if(data.stream === null) {
+              game = "Offline";
+              status = "offline";
+            } else if(data.stream === undefined) {
+              game = "Account closed";
+              status = "offline";
+            } else {
+              game = "Online";
+              status = "online";
+            };
+          })
+        var channelUrl = "{{ url }}/channels/{{ streamer.name }}{{ cb }}"
+        fetch(channelUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            console.log(data)
+            if(data.error === 'Unprocessable Entity') return;
+            var logo = data.logo != null ? data.logo : "/assets/images/twitch/twitch-square.png",
+                name = data.display_name != null ? data.display_name : "{{ streamer.name }}",
+                description = status === "online" ? ": " + data.status : "";
+                var html = '<div class="row channel ' + status + '"><div class="stream-icon"><a href="' + data.url + '" target="_blank"><img src="' + logo + '" class="logo"></a></div><div class="stream-meta"><div class="name" id="name"><a href="' + data.url + '" target="_blank">' + name + '</a></div><div class="status">' + data.status + '</div><div class="game" id="streaming">' + game + '</div></div></div>';
+                document.getElementById("{{streamer.name}}").innerHTML = html;
+          })
+      </script>
+    {% endif %}
+  {% endfor %}
+  </div>
+  {% if counter == 0 %}
+    <p>No streamers here yet?!? Help us out and submit a streamers information if they play this game. Email us at <a href="mailto:info@utahesports.net">info@utahesports.net</a></p>
+  {% else %}
+    <br/>
+    <p>Streamer for {{ page.title }} not listed? Submit the gamer's streaming information to: <a href="mailto:info@utahesports.net">info@utahesports.net</a></p>
+  {% endif %}
+</div>

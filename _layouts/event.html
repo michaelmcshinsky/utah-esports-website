@@ -1,0 +1,93 @@
+---
+layout: default
+---
+
+<article class="event" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="event-header">
+    <div class="event-header-banner">
+      <img src="{{ page.event_image }}" alt="{{ page.title }}"/>
+      <div class="event-header-title">
+        <h1 class="event-title" itemprop="name headline">{{ page.title | escape }}</h1>
+        <div class="date">
+            <span class="month">{{ page.start_date | date: "%B" }}</span>
+            <span class="day">{{ page.start_date | date: "%d" }},</span>
+            <span class="year">{{ page.start_date | date: "%Y" }}</span>
+          </div>
+      </div>
+    </div>
+
+  </header>
+
+  <div class="event-content" itemprop="articleBody">
+    <div class="row">
+      <div class="col-xs-12 col-sm-8 col-md-8">
+        <div class="heading">
+          <h3>
+            Description
+          </h3>
+        </div>
+        {{ content }}
+      </div>
+      <div class="col-xs-12 col-sm-4 col-md-4">
+        <div class="heading">
+          <h3>
+            Details
+          </h3>
+        </div>
+        <h3>Date and Time</h3>
+        <time class="event-details-meta">
+          <p class="event-dates">{{ page.start_date | date: "%B %d, %Y" }}  {% if page.end_date %}-{% endif %} {{ page.end_date | date: "%B %d, %Y" }}</p>
+          <p class="event-times">{{ page.start_time | date: "%R %p" }} {% if page.end_time %}-{% endif %} {{page.end_time | date: "%R %p" }}</p>
+        </time>
+        {% if page.event_url %}<a class="btn btn--primary" href="{{ page.event_url }}" target="_blank">View Event Page</a>{% endif %}
+        {% if page.venue_address_1 or page.venue_city or page.venue_state %}
+        <h3>Location</h3>
+        {% endif %}
+        <address class="event-details-meta">
+          <p class="event-venue-title">{{ page.venue_title }}</p>
+          <p class="event-venue-address-1">{{ page.venue_address_1 }}</p>
+          <p class="event-venue-address-2">{{ page.venue_address_2 }}</p>
+          <p class="event-venue-location">
+            <span class="event-venue-city">{{ page.venue_city }}</span>
+            <span class="event-venue-state">{{ page.venue_state }}{% if page.venue_state %},{% endif %}</span>
+            <span class="event-venue-zipcode">{{ page.venue_zipcode }}</span>
+          </p>
+        </address>
+        {% if page.venue_url %}<a class="btn btn--primary" href="{{ page.venue_url }}" target="_blank">View Venue Page</a>{% endif %}
+        <div id="map"></div>
+      </div>
+    </div>
+  </div>
+
+</article>
+{% if page.city %}
+{% assign address = page.venue_address_1 | append: ' ' | append: page.venue_address_2 | append: ', ' | append: page.venue_city | append: ", " | append: page.venue_state | append: " " | append: page.venue_zipcode %}
+
+<script>
+  var address = "{{ address }}";
+
+  function initMap() {
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 15
+    });
+
+    var geocoder = new google.maps.Geocoder();
+
+    geocoder.geocode({
+        'address': address
+    }, 
+    function(results, status) {
+        if(status == google.maps.GeocoderStatus.OK) {
+          new google.maps.Marker({
+              position: results[0].geometry.location,
+              map: map
+          });
+          map.setCenter(results[0].geometry.location);
+        }
+    });
+  }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCI7Mfu-08qg02Idx-wyihmHxae9GW9UDs&callback=initMap"
+    async defer></script>
+{% endif %}

@@ -180,13 +180,13 @@
   -webkit-box-align: center;
   align-items: center;
   background: $background-color;
-
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    font-size: 14px;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -194,6 +194,9 @@
 
     &.site-title {
       margin-left: 0;
+      img {
+        max-height: 30px;
+      }
     }
   }
 
@@ -230,7 +233,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: $primary-color;
+        background: $site-color;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -541,4 +544,17 @@
       display: block;
     }
   }
+}
+
+
+// Overrides
+
+.masthead__menu-item.parent:hover ul.child-nav {
+  display: block;
+}
+
+ul.child-nav {display: none;position: absolute;background: #000;padding: 5px 15px;background-color: #131519;border: 1px solid #2d313a;margin: 0;}
+
+ul.child-nav a {
+  margin-left: 0;
 }

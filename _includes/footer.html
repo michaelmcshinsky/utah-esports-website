@@ -1,25 +1,69 @@
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-    {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://www.facebook.com/{{ site.facebook.username }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.gitlab %}
-      <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fab fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
-</div>
+<!-- <div class="partner-banner">
+  <div class="row">
+    <div className="col-xs-6 col-sm-4">
+      <img src="/assets/images/partners/lds-gamers.png" alt="LDS Gamers"/>
+    </div>
+    <div className="col-xs-6 col-sm-4">
+      <img src="/assets/images/partners/sc2-replay-stats.png" alt="Sc2 Replay Stats"/>
+    </div>
+    <div className="col-xs-6 col-sm-4">
+      <img src="/assets/images/partners/esports-arcade.png" alt="Esports Arcade"/>
+    </div>
+  </div>
+</div> -->
+<footer id="footer">
+  <div class="footer-top">
+    <div class="row">
+      <div class="col-xs-12 col-sm-3 col-md-3 text-center">
+          <a class="site-title" href="{{ '/' | relative_url }}"><img src="/assets/images/site/utah-esports-white-2.png" alt="logo"/></a>
+      </div>
+      <div class="col-xs-6 col-sm-3 col-md-3">
+        <h5>Community</h5>
+        <ul class="footer-menu">
+          <li><a href="/streams">Streams</a></li>
+          <li><a href="/social-groups">Social Groups</a></li>
+          <li><a href="/teams-and-clubs">Teams and Clubs</a></li>
+          <li><a href="/vendors-and-venues">Vendors and Venues</a></li>
+        </ul>
+      </div>
+      <div class="col-xs-6 col-sm-3 col-md-3">
+        <h5>Site Links</h5>
+        <ul class="footer-menu">
+          <li><a href="/">Home</a></li>
+          <li><a href="/calendar">Calendar</a></li>
+          <li><a href="/submit-event">Submit Event</a></li>
+        </ul>
+      </div>
+      <div class="col-xs-6 col-sm-3 col-md-3">
+        <h5>Legal</h5>
+        <ul class="footer-menu">
+          <li><a href="/contact">Contact</a></li>
+          <li><a href="/terms">Terms</a></li>
+          <li><a href="/privacy">Privacy</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="page__footer-follow">
+      <ul class="social-icons">
+        {% if site.data.ui-text[site.locale].follow_label %}
+          <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+        {% endif %}
+        {% if site.twitter.username %}
+          <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        {% endif %}
+        {% if site.facebook.username %}
+          <li><a href="https://www.facebook.com/{{ site.facebook.username }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        {% endif %}
+        {% if site.author.instagram %}
+          <li><a href="https://instagram.com/{{ site.author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+        {% endif %}
+        <!-- <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
+      </ul>
+    </div>
+    
+    <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+  </div>
+</footer>
