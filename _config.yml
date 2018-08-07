@@ -10,16 +10,16 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Utah Esports"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Utah Esports"
+description              : "Eat Sleep Game."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,9 +77,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : esportsutah
 facebook:
-  username               :
+  username               : esportsutah
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -100,10 +100,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Utah Esports"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : 
+  location         : 
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -111,13 +111,13 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : esportsutah
   foursquare       :
   github           :
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : utahesports
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : esportsutah
   vine             :
   weibo            :
   xing             :
@@ -136,6 +136,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _events
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -232,6 +233,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+event_archive:
+  type: liquid
+  path: /events/
 tag_archive:
   type: liquid
   path: /tags/
@@ -255,9 +259,27 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  events:
+    output: true
+    permalink: /event/:path/
 
 # Defaults
 defaults:
+  # _events
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: event
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _posts
   - scope:
       path: ""

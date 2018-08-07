@@ -2,7 +2,7 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
-        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <a class="site-title" href="{{ '/' | relative_url }}"><img src="/assets/images/site/utah-esports-white-2.png" alt="logo"/></a>
         <ul class="visible-links">
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
@@ -10,8 +10,20 @@
             {% else %}
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
-            <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+            {% if link.children %}
+            <li class="masthead__menu-item parent">  
+              <a {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              <ul class="child-nav">
+                {% for child in link.children %}
+                <li>
+                  <a href="{{ domain }}{{ child.url }}" {% if child.description %}title="{{ child.description }}"{% endif %}>{{ child.title }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+              {% else %}
+              <li class="masthead__menu-item">  
+                <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              {% endif %}
             </li>
           {% endfor %}
         </ul>

@@ -1,0 +1,93 @@
+
+- name: sojourntv
+  streams: starcraft
+
+- name: htomario
+  streams: starcraft
+
+- name: ccall1212
+  streams: starcraft
+
+- name: coronesc2
+  streams: starcraft
+
+- name: breath20
+  streams: starcraft
+
+- name: stun_sc2
+  streams: starcraft
+
+- name: kalnoky
+  streams: starcraft
+
+- name: dragonknight424
+  streams: starcraft
+
+- name: utahesportsdivision
+  streams: starcraft
+
+- name: impspectre
+  streams: starcraft
+
+- name: thomas5k
+  streams: starcraft
+
+- name: icarusdota
+  streams: dota-2
+
+- name: hsstarleague
+  streams: dota-2
+
+- name: therealconkle
+  streams: dota-2
+
+- name: temporalmoose
+  streams: dota-2
+
+- name: dotamajor
+  streams: dota-2
+
+- name: crwdcontrol
+  streams: dota-2
+
+- name: dotacapitalist
+  streams: dota-2
+
+- name: alltheusernamesweretaken
+  streams: dota-2
+
+- name: flashh_back
+  streams: dota-2
+
+- name: uutespa
+  streams: league-of-legends
+
+- name: usecon
+  streams: league-of-legends
+
+- name: nero577
+  streams: league-of-legends
+
+- name: faizey
+  streams: league-of-legends
+
+- name: mewurby
+  streams: league-of-legends
+
+- name: jehrfeur
+  streams: league-of-legends
+
+- name: toltechgaming
+  streams: league-of-legends
+
+- name: sk8fern
+  streams: league-of-legends
+
+- name: aceofspadess69
+  streams: league-of-legends
+
+- name: bulbasaurusss
+  streams: league-of-legends
+
+- name: TwitchSLC
+  streams: warcraft

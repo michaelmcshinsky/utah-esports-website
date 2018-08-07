@@ -52,9 +52,42 @@
   }
 }
 
+footer {
+  .footer-top {
+    margin-bottom: 1em;
+  }
+  .site-title {
+    margin-top: 1.7em;
+    display: inline-block;
+    img {
+      max-width: 200px;
+    }
+  }
+  h5 {
+    font-size: 18px;
+    margin-bottom: 15px;
+  }
+  .footer-menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      margin-bottom: .15em;
+      a {
+        font-size: 14px;
+      }
+    }
+  }
+  .footer-bottom {
+    border-top: 1px solid #2d313a;
+    padding-top: 15px;
+    margin-top: 15px;
+  }
+}
+
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: 14px;
 }
 
 .page__footer-follow {
@@ -69,7 +102,7 @@
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
+    font-size: 14px;
     text-transform: uppercase;
   }
 
