@@ -73,3 +73,10 @@
       right: 1em;
   }
 }
+
+
+@media screen and (max-width: 639px) {
+  .glide__slides .glide__slide .title a {
+    font-size: 35px;
+  }
+}
