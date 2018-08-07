@@ -88,9 +88,9 @@ permalink: /
   {% endif %}
 {% endfor %}
 </ul>
-<div style="margin-top: 25px">
+<!-- <div style="margin-top: 25px">
   <img src="http://via.placeholder.com/1200x150/111111/cccccc?text=Your+Ad+Here" alt="ad">
-</div>
+</div> -->
 
 <div class="heading" style="margin-top: 1em;">
   <h3>
