@@ -6,7 +6,7 @@
   streams: starcraft
 
 - name: ccall1212
-  streams: starcraft
+  streams: starcraft overwatch dead-by-daylight
 
 - name: coronesc2
   streams: starcraft
@@ -71,6 +71,9 @@
 - name: faizey
   streams: league-of-legends
 
+- name: xtommycee
+  streams: league-of-legends
+
 - name: mewurby
   streams: league-of-legends
 
@@ -91,3 +94,30 @@
 
 - name: TwitchSLC
   streams: warcraft
+
+- name: chucklebucket1
+  streams: halo
+
+- name: dejanintendo
+  streams: fortnite
+
+- name: nevets_gaming
+  streams: final-fantasy ni-no-kuni
+
+- name: mcoreocookie
+  streams: battleground warcraft
+
+- name: kekfila
+  streams: battleground league-of-legends
+
+- name: xen0cidezr0
+  streams: battleground warcraft
+
+- name: briguyshow
+  streams: battleground
+
+- name: xxrangerdangerxx
+  streams: counterstrike battleground rocket-league
+
+- name: wucreationz
+  streams: fortnite overwatch
