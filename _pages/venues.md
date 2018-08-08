@@ -10,6 +10,7 @@ permalink: /venues
       {{ page.title }}
     </h1>
   </div>
+  <p>We love supporting the local community and the venues&amp; vendors that make it possible. Below are a great sample of businesses out there who are striving to make sure Utah's Esports scene is and stays on the map!<br/>Don't see your business listed here? Let us Know! Send us a message at: <a href="mailto:info@utahesports.net">info@utahesports.net</a>.</p>
   <hr/>
   <div class="row">
     {% for venue in site.data.venues %}

@@ -10,6 +10,7 @@ permalink: /teams-and-clubs
       {{ page.title }}
     </h1>
   </div>
+  <p>Local Utah Esports and Gaming communities are on the rise gaining more popularity and success each year. We even have our own Jazz Esports Team! Be sure to support all the local teams and look out for <a href="/events">events</a> where they will go head to head to see who really is the best.<br/>Don't see your team listed here? Let us Know! Send us a message at: <a href="mailto:info@utahesports.net">info@utahesports.net</a>.</p>
   <hr/>
   <div class="row" style="text-align: center">
     {% for team in site.data.teams-and-clubs %}

@@ -10,7 +10,7 @@ permalink: /social-groups
       {{ page.title }}
     </h1>
   </div>
-  <p>We love supporting the community so much that we have created a mini directory of all the gaming communities online located here in Utah. Utah Esports hopes you find the resources and friends here to make your gaming experience beyond fun!</p>
+  <p>There is no better way to game than knowing there are a community of active local gamers who have your back! We love supporting the community so much that we have created a mini directory of all the gaming communities online located here in Utah. Utah Esports hopes you find the resources and friends here to make your gaming experience beyond fun!</p>
   <p>Are we missing any information? If so, let us know at <a href="mailto:info@utahesports.net">info@utahesports.net</a>.</p>
   <hr/>
   <div class="row">
