@@ -28,6 +28,9 @@
         display: block;
         line-height: 1;
         padding-right: 5px;
+        &:hover {
+          color: #03A9F3;
+        }
       }
     }
   }
@@ -43,6 +46,9 @@
     .social__links a {
       line-height: 1;
       display: block;
+      &:hover {
+        color: #03A9F3;
+      }
     }
   }
 }
