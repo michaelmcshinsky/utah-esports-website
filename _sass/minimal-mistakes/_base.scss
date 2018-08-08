@@ -373,11 +373,11 @@ input[type="submit"],
     display: inline-block;
     &:before {
       content: '';
-      border-left: 4px solid #FF290F;
+      border-left: 4px solid #03A9F3;
       display: block;
       width: 5px;
       height: 65px;
-      border-right: 4px solid #FF290F;
+      border-right: 4px solid #03A9F3;
       position: absolute;
       transform: rotate(30deg);
       top: -10px;
