@@ -85,16 +85,16 @@
 <loc>http://localhost:4000/events/2018-08-11-Round-1-Sandy-Grand-Opening</loc>
 </url>
 <url>
-<loc>http://localhost:4000/calendar-data/</loc>
+<loc>http://localhost:4000/calendar-data</loc>
 </url>
 <url>
-<loc>http://localhost:4000/calendar/</loc>
+<loc>http://localhost:4000/calendar</loc>
 </url>
 <url>
 <loc>http://localhost:4000/streams/call-of-duty</loc>
 </url>
 <url>
-<loc>http://localhost:4000/contact/</loc>
+<loc>http://localhost:4000/contact</loc>
 </url>
 <url>
 <loc>http://localhost:4000/streams/counterstrike</loc>
@@ -130,7 +130,7 @@
 <loc>http://localhost:4000/streams/overwatch</loc>
 </url>
 <url>
-<loc>http://localhost:4000/privacy-policy/</loc>
+<loc>http://localhost:4000/privacy-policy</loc>
 </url>
 <url>
 <loc>http://localhost:4000/social-groups</loc>
@@ -139,7 +139,7 @@
 <loc>http://localhost:4000/streams/starcraft-2</loc>
 </url>
 <url>
-<loc>http://localhost:4000/submit-event/</loc>
+<loc>http://localhost:4000/submit-event</loc>
 </url>
 <url>
 <loc>http://localhost:4000/streams/super-smash-brothers</loc>
@@ -148,7 +148,7 @@
 <loc>http://localhost:4000/teams-and-clubs</loc>
 </url>
 <url>
-<loc>http://localhost:4000/terms-and-conditions/</loc>
+<loc>http://localhost:4000/terms-and-conditions</loc>
 </url>
 <url>
 <loc>http://localhost:4000/venues</loc>
