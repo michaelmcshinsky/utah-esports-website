@@ -60,7 +60,7 @@ permalink: /teams-and-clubs
     text-decoration: none;
   }
   .col-xs-6 a:hover {
-    color: #FF290F;
+    color: #03A9F3;
   }
   .col-xs-6 img {
     border: 1px solid #2d313a;
