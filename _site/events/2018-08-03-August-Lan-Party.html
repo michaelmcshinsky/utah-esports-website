@@ -337,7 +337,37 @@ Stay on-top of updates and other events by joining the meetup group! (https://ww
 </article>
 
 
+<script>
+  var address = "650 N Main St. , North Salt Lake, Utah 84054";
+
+  function initMap() {
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 15
+    });
+
+    var geocoder = new google.maps.Geocoder();
+
+    geocoder.geocode({
+        'address': address
+    }, 
+    function(results, status) {
+        if(status == google.maps.GeocoderStatus.OK) {
+          new google.maps.Marker({
+              position: results[0].geometry.location,
+              map: map
+          });
+          map.setCenter(results[0].geometry.location);
+        }
+    });
+  }
+  
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCI7Mfu-08qg02Idx-wyihmHxae9GW9UDs&callback=initMap" async defer></script>
+
 <style>
+  #map {
+    margin-top: 30px;
+  }
   @media screen and (max-width: 767px) {
     .event-content > .row {
       flex-direction: column-reverse;
