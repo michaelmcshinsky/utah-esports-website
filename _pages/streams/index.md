@@ -96,7 +96,8 @@ stream: "all"
   <h3>Streamers - Full List</h3>
   <hr/>
   <div class="row">
-    {% for streamer in site.data.streamers %}
+    {% assign sorted_streams = (site.data.streamers | sort: 'streams'') %}
+    {% for streamer in sorted_streams %}
     {% assign streams = streamer.streams | split: ' ' %}
     <div class="col-xs-6 col-sm-4 col-md-3">
       <p>{{ streamer.name }}</p>
