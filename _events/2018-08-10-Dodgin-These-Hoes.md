@@ -18,5 +18,5 @@ venue_zipcode: "84604"
 venue_url: "http://www.livetheriv.com/"
 ---
 
-Super Smash Bros. Melee
+Super Smash Bros. Melee hosted by BYU Melee
 Riveira Apartments (Clubhouse by the pool)
