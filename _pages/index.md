@@ -92,13 +92,6 @@ permalink: /
 <!-- <div style="margin-top: 25px">
   <img src="http://via.placeholder.com/1200x150/111111/cccccc?text=Your+Ad+Here" alt="ad">
 </div> -->
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({
-          google_ad_client: "ca-pub-7372635541169725",
-          enable_page_level_ads: true
-     });
-</script>
 <div class="heading" style="margin-top: 1em;">
   <h3>
     The Community
