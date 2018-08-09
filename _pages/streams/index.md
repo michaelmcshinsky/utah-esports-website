@@ -86,6 +86,12 @@ stream: "all"
         <h3>World of Warcraft</h3>
       </a>
     </div>
+    <div class="col-xs-6 col-sm-4">
+      <a href="{{ site.url }}/streams/rocket-league">
+        <img src="{{ site.url }}/assets/images/banners/rocket-league.png" alt="World of Warcraft"/>
+        <h3>Rocket League</h3>
+      </a>
+    </div>
   </div>
   <h3>Full List</h3>
   <div class="row">
