@@ -9,6 +9,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-07-Fortnite-2v2",
         "teaser":null},{
+        "title": "Dodgin These Hoes",
+        "excerpt":"Super Smash Bros. MeleeRiveira Apartments (Clubhouse by the pool) ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-08-10-Dodgin-These-Hoes",
+        "teaser":null},{
         "title": "Super Street Fighter IV Arcade Edition",
         "excerpt":"Join us at the Microsoft Store in Fashion Place Mall on August 11th from 6p-8p for a Street Fighter IV Tournament. We will have Xbox swag for participants and a prize for the tournament winner. ","categories": [],
         "tags": [],
