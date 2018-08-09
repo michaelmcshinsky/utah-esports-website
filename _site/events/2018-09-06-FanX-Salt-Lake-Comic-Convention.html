@@ -306,8 +306,10 @@
         </address>
         <a class="btn btn--primary" href="https://www.visitsaltlake.com/salt-palace-convention-center/" target="_blank">View Venue Page</a>
         <div id="map"></div>
-        <h3>Media</h3>
-        <img src="/assets/images/events/2018-09-06-FanX-Salt-Lake-Comic-Convention.jpg" alt="FanX® Salt Lake Comic Convention 2018"/>
+        <div class="event-media">
+          <h3>Media</h3>
+          <img src="/assets/images/events/2018-09-06-FanX-Salt-Lake-Comic-Convention.jpg" alt="FanX® Salt Lake Comic Convention 2018"/>
+        </div>
       </div>
     </div>
   </div>
@@ -349,6 +351,9 @@
   @media screen and (max-width: 767px) {
     .event-content > .row {
       flex-direction: column-reverse;
+    }
+    .event-media {
+      display: none;
     }
   }
 </style>

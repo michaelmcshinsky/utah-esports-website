@@ -318,8 +318,10 @@
         </address>
         <a class="btn btn--primary" href="http://getlanlocked.com/" target="_blank">View Venue Page</a>
         <div id="map"></div>
-        <h3>Media</h3>
-        <img src="/assets/images/events/2018-09-06-Get-Lanlocked.jpg" alt="Get Lanlocked"/>
+        <div class="event-media">
+          <h3>Media</h3>
+          <img src="/assets/images/events/2018-09-06-Get-Lanlocked.jpg" alt="Get Lanlocked"/>
+        </div>
       </div>
     </div>
   </div>
@@ -361,6 +363,9 @@
   @media screen and (max-width: 767px) {
     .event-content > .row {
       flex-direction: column-reverse;
+    }
+    .event-media {
+      display: none;
     }
   }
 </style>

@@ -311,8 +311,10 @@
         </address>
         <a class="btn btn--primary" href="https://gametyrant.gg/" target="_blank">View Venue Page</a>
         <div id="map"></div>
-        <h3>Media</h3>
-        <img src="/assets/images/events/2018-08-25-The-Salt-Packet.jpg" alt="The Salt Packet"/>
+        <div class="event-media">
+          <h3>Media</h3>
+          <img src="/assets/images/events/2018-08-25-The-Salt-Packet.jpg" alt="The Salt Packet"/>
+        </div>
       </div>
     </div>
   </div>
@@ -354,6 +356,9 @@
   @media screen and (max-width: 767px) {
     .event-content > .row {
       flex-direction: column-reverse;
+    }
+    .event-media {
+      display: none;
     }
   }
 </style>

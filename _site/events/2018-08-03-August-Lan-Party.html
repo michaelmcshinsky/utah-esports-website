@@ -328,8 +328,10 @@ Stay on-top of updates and other events by joining the meetup group! (https://ww
         </address>
         <a class="btn btn--primary" href="https://gametyrant.gg/" target="_blank">View Venue Page</a>
         <div id="map"></div>
-        <h3>Media</h3>
-        <img src="/assets/images/events/2018-08-03-August-Lan-Party.jpg" alt="August Lan Party"/>
+        <div class="event-media">
+          <h3>Media</h3>
+          <img src="/assets/images/events/2018-08-03-August-Lan-Party.jpg" alt="August Lan Party"/>
+        </div>
       </div>
     </div>
   </div>
@@ -371,6 +373,9 @@ Stay on-top of updates and other events by joining the meetup group! (https://ww
   @media screen and (max-width: 767px) {
     .event-content > .row {
       flex-direction: column-reverse;
+    }
+    .event-media {
+      display: none;
     }
   }
 </style>

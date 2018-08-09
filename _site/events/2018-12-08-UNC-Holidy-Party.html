@@ -302,8 +302,10 @@
         </address>
         
         <div id="map"></div>
-        <h3>Media</h3>
-        <img src="/assets/images/events/2018-12-08-UNC-Holidy-Party.jpg" alt="UNC Holiday Party"/>
+        <div class="event-media">
+          <h3>Media</h3>
+          <img src="/assets/images/events/2018-12-08-UNC-Holidy-Party.jpg" alt="UNC Holiday Party"/>
+        </div>
       </div>
     </div>
   </div>
@@ -345,6 +347,9 @@
   @media screen and (max-width: 767px) {
     .event-content > .row {
       flex-direction: column-reverse;
+    }
+    .event-media {
+      display: none;
     }
   }
 </style>

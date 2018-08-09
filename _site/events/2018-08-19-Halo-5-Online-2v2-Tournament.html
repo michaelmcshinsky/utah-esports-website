@@ -298,8 +298,10 @@
         </address>
         <a class="btn btn--primary" href="https://www.facebook.com/photo.php?fbid=1877214829250985&set=gm.695060014170425&type=3&theater&ifg=1" target="_blank">View Venue Page</a>
         <div id="map"></div>
-        <h3>Media</h3>
-        <img src="/assets/images/events/2018-08-19-Halo-5-Online-2v2-Tournament.jpg" alt="GameTyrant Melee Monthly"/>
+        <div class="event-media">
+          <h3>Media</h3>
+          <img src="/assets/images/events/2018-08-19-Halo-5-Online-2v2-Tournament.jpg" alt="GameTyrant Melee Monthly"/>
+        </div>
       </div>
     </div>
   </div>
@@ -341,6 +343,9 @@
   @media screen and (max-width: 767px) {
     .event-content > .row {
       flex-direction: column-reverse;
+    }
+    .event-media {
+      display: none;
     }
   }
 </style>
