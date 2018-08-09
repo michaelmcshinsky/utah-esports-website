@@ -328,8 +328,10 @@ Because you will be queuing up as a DUO with your opponent, any player inside of
         </address>
         <a class="btn btn--primary" href="https://gametyrant.gg/" target="_blank">View Venue Page</a>
         <div id="map"></div>
-        <h3>Media</h3>
-        <img src="/assets/images/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament.jpg" alt="GameTyrant 1v1 PC Fortnite Tournament "/>
+        <div class="event-media">
+          <h3>Media</h3>
+          <img src="/assets/images/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament.jpg" alt="GameTyrant 1v1 PC Fortnite Tournament "/>
+        </div>
       </div>
     </div>
   </div>
@@ -371,6 +373,9 @@ Because you will be queuing up as a DUO with your opponent, any player inside of
   @media screen and (max-width: 767px) {
     .event-content > .row {
       flex-direction: column-reverse;
+    }
+    .event-media {
+      display: none;
     }
   }
 </style>
