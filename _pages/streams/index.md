@@ -97,8 +97,8 @@ stream: "all"
   <div class="row">
     {% for streamer in site.data.streamers %}
     <div class="col-xs-6 col-sm-4 col-md-3">
-      <h5>{{ streamer.name }}</h5>
-      <p>Url: <a href="" target="_blank"></a></p>
+      <p>{{ streamer.name }}</p>
+      <p style="margin-bottom: 0;"><small>Url: <a href="https://twitch.tv/{{ streamer.name }}" target="_blank">Twitch</a></small></p>
     </div>
     {% endfor %}
   </div>
@@ -115,5 +115,11 @@ stream: "all"
   }
   .row img {
     border: 1px solid #2d313a;
+  }
+  p:not(:last-child) {
+    margin-bottom: 0;
+  }
+  p + p {
+    margin: 0;
   }
 </style>
