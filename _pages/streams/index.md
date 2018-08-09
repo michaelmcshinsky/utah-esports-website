@@ -104,7 +104,7 @@ stream: "all"
       <p style="margin-bottom: 0;"><small><strong>Url:</strong> <a href="https://twitch.tv/{{ streamer.name }}" target="_blank">Twitch</a></small></p>
       <p><small>
         {% for stream in streams %}
-          {{stream | replace: '-', ' '}}<br/>
+          <a href="/{{ stream }}" style="color: #fff;">{{stream | replace: '-', ' '}}</a><br/>
         {% endfor %}
       </small></p>
     </div>
