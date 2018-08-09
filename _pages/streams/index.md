@@ -96,9 +96,15 @@ stream: "all"
   <h3>Full List</h3>
   <div class="row">
     {% for streamer in site.data.streamers %}
+    {% assign streams = streamer.streams | split: ' ' %}
     <div class="col-xs-6 col-sm-4 col-md-3">
       <p>{{ streamer.name }}</p>
-      <p style="margin-bottom: 0;"><small>Url: <a href="https://twitch.tv/{{ streamer.name }}" target="_blank">Twitch</a></small></p>
+      <p style="margin-bottom: 0;"><small><strong>Url:</strong> <a href="https://twitch.tv/{{ streamer.name }}" target="_blank">Twitch</a></small></p>
+      <p><small><strong>Streams:</strong><br/>
+        {% for stream in streams %}
+          {{stream | replace: '-', ' '}}<br/>
+        {% endfor %}
+      </small></p>
     </div>
     {% endfor %}
   </div>
