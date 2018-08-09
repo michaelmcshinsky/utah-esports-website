@@ -63,7 +63,6 @@ layout: default
   </div>
 
 </article>
-{% if page.city %}
 {% assign address = page.venue_address_1 | append: ' ' | append: page.venue_address_2 | append: ', ' | append: page.venue_city | append: ", " | append: page.venue_state | append: " " | append: page.venue_zipcode %}
 
 <script>
@@ -91,9 +90,7 @@ layout: default
   }
   
 </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCI7Mfu-08qg02Idx-wyihmHxae9GW9UDs&callback=initMap"
-    async defer></script>
-{% endif %}
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCI7Mfu-08qg02Idx-wyihmHxae9GW9UDs&callback=initMap" async defer></script>
 
 <style>
   @media screen and (max-width: 767px) {
