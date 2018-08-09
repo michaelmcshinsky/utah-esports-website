@@ -10,7 +10,7 @@ var store = [{
         "url": "http://localhost:4000/events/2018-08-07-Fortnite-2v2",
         "teaser":null},{
         "title": "Dodgin These Hoes",
-        "excerpt":"Super Smash Bros. Melee hosted by BYU MeleeRiveira Apartments (Clubhouse by the pool) ","categories": [],
+        "excerpt":"Super Smash Bros. Melee hosted by BYU Melee Riveira Apartments (Clubhouse by the pool) ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-10-Dodgin-These-Hoes",
         "teaser":null},{
