@@ -93,23 +93,6 @@ stream: "all"
       </a>
     </div>
   </div>
-  <h3>Streamers - Full List</h3>
-  <hr/>
-  <div class="row">
-    {% assign sorted_streams = (site.data.streamers | sort: 'streams'') %}
-    {% for streamer in sorted_streams %}
-    {% assign streams = streamer.streams | split: ' ' %}
-    <div class="col-xs-6 col-sm-4 col-md-3">
-      <p>{{ streamer.name }}</p>
-      <p style="margin-bottom: 0;"><small><strong>Url:</strong> <a href="https://twitch.tv/{{ streamer.name }}" target="_blank">Twitch</a></small></p>
-      <p><small>
-        {% for stream in streams %}
-          <a href="/streams/{{ stream }}" style="color: #fff;">{{stream | replace: '-', ' '}}</a><br/>
-        {% endfor %}
-      </small></p>
-    </div>
-    {% endfor %}
-  </div>
 </div>
 
 <style>

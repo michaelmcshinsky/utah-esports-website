@@ -14,6 +14,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-10-Dodgin-These-Hoes",
         "teaser":null},{
+        "title": "Round 1 Sandy Grand Opening!",
+        "excerpt":"We’ve received word that the grand opening for the South Town Round 1 arcade will be on Saturday the 11th of August! Come join us as we welcome Round 1 Arcade to Utah! Round 1 Arcade is a nationwide chain of arcades which feature the best games, including the newest...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-08-11-Round-1-Sandy-Grand-Opening",
+        "teaser":null},{
         "title": "Super Street Fighter IV Arcade Edition",
         "excerpt":"Join us at the Microsoft Store in Fashion Place Mall on August 11th from 6p-8p for a Street Fighter IV Tournament. We will have Xbox swag for participants and a prize for the tournament winner. ","categories": [],
         "tags": [],
@@ -28,6 +33,11 @@ var store = [{
         "excerpt":"Online Event. See details event link for more information. ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-19-Halo-5-Online-2v2-Tournament",
+        "teaser":null},{
+        "title": "Game night at Quarters! Aug TwitchSLC Meetup",
+        "excerpt":"Join us this month at Quarters Arcade Bar!Games, Friends and Drinks! ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-08-25-Game-night-at-Quarters",
         "teaser":null},{
         "title": "The Salt Packet",
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
@@ -59,8 +69,13 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2018-12-08-UNC-Holidy-Party",
         "teaser":null},{
-        "title": "Round 1 Sandy Grand Opening!",
-        "excerpt":"We’ve received word that the grand opening for the South Town Round 1 arcade will be on Saturday the 11th of August! Come join us as we welcome Round 1 Arcade to Utah! Round 1 Arcade is a nationwide chain of arcades which feature the best games, including the newest...","categories": [],
+        "title": "Salt Con",
+        "excerpt":"Utah’s Largest Board Game Convention ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/events/2018-08-11-Round-1-Sandy-Grand-Opening",
+        "url": "http://localhost:4000/events/2019-02-28-Salt-Con",
+        "teaser":null},{
+        "title": "Salt Con End of Summer",
+        "excerpt":"Davis Conference Center, Layton UT 48 hours of gaming! ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer",
         "teaser":null},]

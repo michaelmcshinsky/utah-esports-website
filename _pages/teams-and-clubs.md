@@ -44,7 +44,7 @@ permalink: /teams-and-clubs
           <div><a href="{{ team.discord }}" target="_blank">Discord</a></div>
         {% endif %}
         {% if team.youtube %}
-          <div><a href="{{a team.youtube }}" target="_blank">Youtube</a></div>
+          <div><a href="{{ team.youtube }}" target="_blank">Youtube</a></div>
         {% endif %}
         {% if team.steam %}
           <div><a href="{{ team.steam }}" target="_blank">Steam</a></div>
