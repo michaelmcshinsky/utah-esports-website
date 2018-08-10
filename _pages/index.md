@@ -54,7 +54,6 @@ permalink: /
   <h3>
     Upcoming Events
     <a href="/calendar" class="btn btn--default">View All Events</a>
-    <span>/ </span><a href="/submit-event" class="btn btn--default">Submit Event</a>
   </h3>
   <!-- <div class="pull-right">
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSd_Nj2QKQTkN3NzUCnQKX7YlLM1Avt_jDOhqVxg3xXlrv5ytg/viewform?usp=sf_link" class="btn btn--primary" target="_blank">Submit Event</a>
