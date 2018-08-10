@@ -59,6 +59,9 @@ layout: default
                 document.getElementById("{{streamer.name}}").innerHTML = html;
           })
       </script>
+      {% if streamer.youtube %}
+        <p><small><strong><a href="{{ streamer.youtube }}" target="_blank">Youtube Channel</a></strong></small></p>
+      {% endif %}
     {% endif %}
   {% endfor %}
   </div>

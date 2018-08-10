@@ -8,7 +8,6 @@ permalink: /streams/all
   <div class="heading" style="margin: 50px 0 0">
     <h1>
       Streamers - Full List
-      <a href="/streams/all" class="btn btn-default">See all Streamers</a>
     </h1>
   </div>
   <div class="row">
