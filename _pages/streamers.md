@@ -1,7 +1,7 @@
 ---
 layout: default
 title: All Streams
-permalink: /streams/all
+permalink: /streamers
 ---
 
 <div style="max-width: 1200px;padding: 0 30px;margin: auto;">
