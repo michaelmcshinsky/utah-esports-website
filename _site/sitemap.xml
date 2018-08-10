@@ -173,7 +173,7 @@
 <loc>http://localhost:4000/streams/starcraft-2</loc>
 </url>
 <url>
-<loc>http://localhost:4000/streams/all</loc>
+<loc>http://localhost:4000/streamers</loc>
 </url>
 <url>
 <loc>http://localhost:4000/submit-event</loc>
