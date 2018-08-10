@@ -9,6 +9,7 @@ stream: "all"
   <div class="heading" style="margin: 50px 0 0">
     <h1>
       {{ page.title }}
+      <a href="/streamers" class="btn btn-default">See all Streamers</a>
     </h1>
   </div>
   <p>Streamers are a newfound core to the Utah gaming community. Support your favorite streaming channels here and remember to subscribe to them to really help them bring you quality content! Submit your streaming information to: <a href="mailto:info@utahesports.net">info@utahesports.net</a>.</p>

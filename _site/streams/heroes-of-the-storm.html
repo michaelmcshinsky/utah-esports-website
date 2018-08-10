@@ -364,10 +364,56 @@
   
   
   
+    
+      <div class="col-xs-6 col-sm-4 col-md-3" style="margin-bottom: 30px;">
+        <div class="stream-container">
+          <div id="Detomno"></div>
+        </div>
+      </div>
+      <script>
+        var streamUrl = "https://api.twitch.tv/kraken//streams/Detomno?client_id=94rhzyeshm8l6r2b50i994u4nissnf"
+        var game, status;
+        fetch(streamUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            console.log(data)
+            if(data.stream === null) {
+              game = "Offline";
+              status = "offline";
+            } else if(data.stream === undefined) {
+              game = "Account closed";
+              status = "offline";
+            } else {
+              game = "Online";
+              status = "online";
+            };
+          })
+        var channelUrl = "https://api.twitch.tv/kraken//channels/Detomno?client_id=94rhzyeshm8l6r2b50i994u4nissnf"
+        fetch(channelUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            console.log(data)
+            if(data.error === 'Unprocessable Entity') return;
+            var logo = data.logo != null ? data.logo : "/assets/images/twitch/twitch-square.png",
+                name = data.display_name != null ? data.display_name : "Detomno",
+                description = status === "online" ? ": " + data.status : "";
+                var html = '<div class="row channel ' + status + '"><div class="stream-icon"><a href="' + data.url + '" target="_blank"><img src="' + logo + '" class="logo"></a></div><div class="stream-meta"><div class="name" id="name"><a href="' + data.url + '" target="_blank">' + name + '</a></div><div class="status">' + data.status + '</div><div class="game" id="streaming">' + game + '</div></div></div>';
+                document.getElementById("Detomno").innerHTML = html;
+          })
+      </script>
+      
+        <p><small><strong><a href="https://www.youtube.com/user/detomno" target="_blank">Youtube Channel</a></strong></small></p>
+      
+    
   
   </div>
   
-    <p>No streamers here yet?!? Help us out and submit a streamers information if they play this game. Email us at <a href="mailto:info@utahesports.net">info@utahesports.net</a></p>
+    <br/>
+    <p>Streamer for Heroes of the Storm not listed? Submit the gamer's streaming information to: <a href="mailto:info@utahesports.net">info@utahesports.net</a></p>
   
 </div>
     </div>
@@ -412,15 +458,16 @@
         <ul class="footer-menu">
           <li><a href="/">Home</a></li>
           <li><a href="/calendar">Calendar</a></li>
+          <li><a href="/streamers">Streamers</a></li>
           <li><a href="/submit-event">Submit Event</a></li>
         </ul>
       </div>
       <div class="col-xs-6 col-sm-3 col-md-3">
-        <h5>Legal</h5>
+        <h5>Contact</h5>
         <ul class="footer-menu">
-          <li><a href="/contact">Contact</a></li>
           <li><a href="/terms-and-conditions">Terms</a></li>
           <li><a href="/privacy-policy">Privacy</a></li>
+          <li><a href="/contact">Contact Us</a></li>
         </ul>
       </div>
     </div>
