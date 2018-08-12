@@ -138,8 +138,8 @@
   streams: league-of-legends
 
 - name: Detomno
-  streams: heroes-of-the-storm rocket-league destiny-2
+  streams: heroes-of-the-storm rocket-league destiny
   youtube: https://www.youtube.com/user/detomno
 
 - name: solgronly
-  streams: call-of-duty destiny-2 warframe
+  streams: call-of-duty destiny warframe
