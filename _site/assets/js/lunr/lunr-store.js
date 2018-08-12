@@ -6,12 +6,12 @@ var store = [{
         "teaser":null},{
         "title": "Fortnite 2v2 $850 prize money tournament (PS4)",
         "excerpt":"Fortnite 2v2 TournamentLayton Hills Mall10amAugust 7thCost is $50.00 per Team GB ENT gaming center Located Lower level near Dillards MUST BE AT THE MALL TO PLAY IN TOURNAMENT Best of 3 Matches: The team with the most kills at the end of the game session will be awarded the win...","categories": [],
-        "tags": [],
+        "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-08-07-Fortnite-2v2",
         "teaser":null},{
         "title": "Dodgin These Hoes",
         "excerpt":"Super Smash Bros. Melee hosted by BYU Melee Riveira Apartments (Clubhouse by the pool) ","categories": [],
-        "tags": [],
+        "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-10-Dodgin-These-Hoes",
         "teaser":null},{
         "title": "Round 1 Sandy Grand Opening!",
@@ -21,17 +21,17 @@ var store = [{
         "teaser":null},{
         "title": "Super Street Fighter IV Arcade Edition",
         "excerpt":"Join us at the Microsoft Store in Fashion Place Mall on August 11th from 6p-8p for a Street Fighter IV Tournament. We will have Xbox swag for participants and a prize for the tournament winner. ","categories": [],
-        "tags": [],
+        "tags": ["street-fighter"],
         "url": "http://localhost:4000/events/2018-08-11-Super-Street-Fighter-IV-Arcade-Edition",
         "teaser":null},{
         "title": "GameTyrant Melee Monthly",
         "excerpt":"GameTyrant’s Alex Refresh are excited to host another Melee Touranment. PLEASE BRING SET UPS!!! If you bring a full set up I can give you 5$ off venue. Capped at 25 set ups. This tournament is for the player first and foremost! 100% transparency is our gameplan so please if...","categories": [],
-        "tags": [],
+        "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-18-GameTyrant-Melee-Monthly",
         "teaser":null},{
         "title": "GameTyrant Melee Monthly",
         "excerpt":"Online Event. See details event link for more information. ","categories": [],
-        "tags": [],
+        "tags": ["halo"],
         "url": "http://localhost:4000/events/2018-08-19-Halo-5-Online-2v2-Tournament",
         "teaser":null},{
         "title": "Game night at Quarters! Aug TwitchSLC Meetup",
@@ -41,12 +41,17 @@ var store = [{
         "teaser":null},{
         "title": "The Salt Packet",
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
-        "tags": [],
+        "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-25-The-Salt-Packet",
+        "teaser":null},{
+        "title": "Salt Con End of Summer",
+        "excerpt":"Davis Conference Center, Layton UT 48 hours of gaming! ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer",
         "teaser":null},{
         "title": "GameTyrant 1v1 PC Fortnite Tournament ",
         "excerpt":"Doors open at NOON! $15 Entry. $5 of entry goes to the Prize PotDouble Elimination Head to head event. Console players may also compete! (must bring own controller, and have an Epic account) BYOC for $5 off of the entry fee. THINGS YOU NEED: you must have an Epic account....","categories": [],
-        "tags": [],
+        "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament",
         "teaser":null},{
         "title": "FanX® Salt Lake Comic Convention 2018",
@@ -56,26 +61,21 @@ var store = [{
         "teaser":null},{
         "title": "Get Lanlocked",
         "excerpt":"Two of our favorite things are LAN parties, and vacations, and we’ve had a vision for a long time of combining the two. We were finally able to test it out, and weren’t surprised to find that everyone loved it. Not only does it create an entirely new experience by...","categories": [],
-        "tags": [],
+        "tags": ["league-of-legends","fortnite","pubg"],
         "url": "http://localhost:4000/events/2018-09-06-Get-Lanlocked",
         "teaser":null},{
         "title": "GameTyrant Expo 2018",
         "excerpt":"GameTyrant Expo is BACK After the Legendary set of events that transpired last year in both Melee and Smash 4, GT-X returns November 2nd-4th at the Gateway Mall in Downtown Salt Lake City, Utah! Featuring: Smash Melee (Singles, Doubles) Smash Wii U (Singles, Doubles) Smash 64 (Singles, Doubles) Dragonball FighterZ...","categories": [],
-        "tags": [],
+        "tags": ["super-smash-brothers","dragonball-z","rivals-of-aether","street-fighter","tekken"],
         "url": "http://localhost:4000/events/2018-11-02-GameTyrant-Expo",
         "teaser":null},{
         "title": "UNC Holiday Party",
-        "excerpt":"Join us for our the UtahNintendo Community November event on Saturday, December 8tth from 1:30 to 4:30 pm MST. RSVP now to get notifications when more details are posted. With Super Smash Bros. Ultimate releasing on Friday, December 7th, you can guarantee that we will be playing A LOT at...","categories": [],
-        "tags": [],
+        "excerpt":"Join us for our the Utah Nintendo Community November event on Saturday, December 8tth from 1:30 to 4:30 pm MST. RSVP now to get notifications when more details are posted. With Super Smash Bros. Ultimate releasing on Friday, December 7th, you can guarantee that we will be playing A LOT...","categories": [],
+        "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-12-08-UNC-Holidy-Party",
         "teaser":null},{
         "title": "Salt Con",
         "excerpt":"Utah’s Largest Board Game Convention ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2019-02-28-Salt-Con",
-        "teaser":null},{
-        "title": "Salt Con End of Summer",
-        "excerpt":"Davis Conference Center, Layton UT 48 hours of gaming! ","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer",
         "teaser":null},]

@@ -16,6 +16,7 @@ venue_city: "Murray"
 venue_state: "Utah"
 venue_zipcode: "84107"
 venue_url: "https://www.fashionplace.com/en.html"
+tags: street-fighter
 ---
 
 Join us at the Microsoft Store in Fashion Place Mall on August 11th from 6p-8p for a Street Fighter IV Tournament. We will have Xbox swag for participants and a prize for the tournament winner.

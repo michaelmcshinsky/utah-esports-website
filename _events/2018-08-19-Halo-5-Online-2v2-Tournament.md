@@ -16,6 +16,7 @@ venue_city:
 venue_state: 
 venue_zipcode: 
 venue_url: "https://www.facebook.com/photo.php?fbid=1877214829250985&set=gm.695060014170425&type=3&theater&ifg=1"
+tags: halo
 ---
 
 Online Event. See details event link for more information.
