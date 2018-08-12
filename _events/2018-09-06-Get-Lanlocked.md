@@ -16,6 +16,7 @@ venue_city: "Santa Clara"
 venue_state: "Utah"
 venue_zipcode: "84765"
 venue_url: "http://getlanlocked.com/"
+tags: league-of-legends fortnite pubg
 ---
 
 Two of our favorite things are LAN parties, and vacations, and we've had a vision for a long time of combining the two.

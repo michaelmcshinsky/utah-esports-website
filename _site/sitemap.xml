@@ -37,6 +37,10 @@
 <lastmod>2018-08-25T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer</loc>
+<lastmod>2018-08-31T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament</loc>
 <lastmod>2018-09-01T00:00:00-06:00</lastmod>
 </url>
@@ -59,10 +63,6 @@
 <url>
 <loc>http://localhost:4000/events/2019-02-28-Salt-Con</loc>
 <lastmod>2019-02-28T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer</loc>
-<lastmod>2020-02-28T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-03-August-Lan-Party</loc>
@@ -92,6 +92,9 @@
 <loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
 </url>
 <url>
+<loc>http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer</loc>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament</loc>
 </url>
 <url>
@@ -108,9 +111,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2019-02-28-Salt-Con</loc>
-</url>
-<url>
-<loc>http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer</loc>
 </url>
 <url>
 <loc>http://localhost:4000/calendar-data</loc>

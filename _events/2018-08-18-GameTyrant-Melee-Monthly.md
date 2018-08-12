@@ -16,6 +16,7 @@ venue_city: "North Salt Lake"
 venue_state: "Utah"
 venue_zipcode: "84054"
 venue_url: "https://gametyrant.gg/"
+tags: super-smash-brothers
 ---
 
 GameTyrant's Alex Refresh are excited to host another Melee Touranment.

@@ -16,8 +16,9 @@ venue_city:
 venue_state: 
 venue_zipcode: 
 venue_url:
+tags: super-smash-brothers
 ---
 
-Join us for our the UtahNintendo Community November event on Saturday, December 8tth from 1:30 to 4:30 pm MST. RSVP now to get notifications when more details are posted.
+Join us for our the Utah Nintendo Community November event on Saturday, December 8tth from 1:30 to 4:30 pm MST. RSVP now to get notifications when more details are posted.
 
 With Super Smash Bros. Ultimate releasing on Friday, December 7th, you can guarantee that we will be playing A LOT at this event. :)

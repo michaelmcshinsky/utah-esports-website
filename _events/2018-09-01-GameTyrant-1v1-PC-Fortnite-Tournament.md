@@ -16,6 +16,7 @@ venue_city: "North Salt Lake"
 venue_state: "Utah"
 venue_zipcode: "84054"
 venue_url: "https://gametyrant.gg/"
+tags: fortnite
 ---
 
 Doors open at NOON! $15 Entry. $5 of entry goes to the Prize Pot

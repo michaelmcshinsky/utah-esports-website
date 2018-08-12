@@ -16,6 +16,7 @@ venue_city: "Sandy"
 venue_state: "Utah"
 venue_zipcode: 84070
 venue_url: "http://shopsatsouthtown.com/"
+tags: 
 ---
 
 We've received word that the grand opening for the South Town Round 1 arcade will be on Saturday the 11th of August! Come join us as we welcome Round 1 Arcade to Utah!
