@@ -21,6 +21,10 @@
 <lastmod>2018-08-11T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-08-13-GT-Melee-Weekly</loc>
+<lastmod>2018-08-13T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-18-GameTyrant-Melee-Monthly</loc>
 <lastmod>2018-08-18T00:00:00-06:00</lastmod>
 </url>
@@ -78,6 +82,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-11-Super-Street-Fighter-IV-Arcade-Edition</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-13-GT-Melee-Weekly</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-18-GameTyrant-Melee-Monthly</loc>

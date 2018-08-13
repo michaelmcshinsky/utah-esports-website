@@ -16,6 +16,7 @@ venue_city: "Salt Lake City"
 venue_state: "Utah"
 venue_zipcode: "84111"
 venue_url: "https://www.quartersslc.com/"
+tags: 
 ---
 
 Join us this month at Quarters Arcade Bar!
