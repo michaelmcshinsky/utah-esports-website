@@ -24,6 +24,11 @@ var store = [{
         "tags": ["street-fighter"],
         "url": "http://localhost:4000/events/2018-08-11-Super-Street-Fighter-IV-Arcade-Edition",
         "teaser":null},{
+        "title": "GT Melee Weekly",
+        "excerpt":"Come to the GameTyrant MELEE weekly FRIDAY! $5 VENUE FEE $5 bracket entry. Bracket fee goes to the POT Bracket starts at 6:30pm. This weekly is streamed. twitch.tv/refreshmedia ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-08-13-GT-Melee-Weekly",
+        "teaser":null},{
         "title": "GameTyrant Melee Monthly",
         "excerpt":"GameTyrant’s Alex Refresh are excited to host another Melee Touranment. PLEASE BRING SET UPS!!! If you bring a full set up I can give you 5$ off venue. Capped at 25 set ups. This tournament is for the player first and foremost! 100% transparency is our gameplan so please if...","categories": [],
         "tags": ["super-smash-brothers"],
