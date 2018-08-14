@@ -407,3 +407,34 @@ input, textarea {
 label {
   font-size: .9em;
 }
+
+// Mailchimp
+
+form#mc-embedded-subscribe-form {
+  background: none;
+  border: none;
+}
+
+div#mc_embed_signup {
+  background: none;
+  margin-top: 10px;
+}
+
+#footer #mc_embed_signup h2 {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 25px;
+}
+
+#mc_embed_signup .mc-field-group input {
+  margin-bottom: 0;
+  color: #fff;
+}
+
+#mc_embed_signup .button {
+  background-color: #03A9F3 !important;
+  font-size: 14px;
+  &:hover, &:focus, &:active {
+    background-color: #0287c2 !important;
+  }
+}
