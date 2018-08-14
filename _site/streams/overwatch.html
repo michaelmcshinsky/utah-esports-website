@@ -380,6 +380,48 @@
   
   
   
+    
+      <div class="col-xs-6 col-sm-4 col-md-3" style="margin-bottom: 30px;">
+        <div class="stream-container">
+          <div id="dejanintendo"></div>
+        </div>
+      </div>
+      <script>
+        var streamUrl = "https://api.twitch.tv/kraken//streams/dejanintendo?client_id=94rhzyeshm8l6r2b50i994u4nissnf"
+        var game, status;
+        fetch(streamUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            console.log(data)
+            if(data.stream === null) {
+              game = "Offline";
+              status = "offline";
+            } else if(data.stream === undefined) {
+              game = "Account closed";
+              status = "offline";
+            } else {
+              game = "Online";
+              status = "online";
+            };
+          })
+        var channelUrl = "https://api.twitch.tv/kraken//channels/dejanintendo?client_id=94rhzyeshm8l6r2b50i994u4nissnf"
+        fetch(channelUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            console.log(data)
+            if(data.error === 'Unprocessable Entity') return;
+            var logo = data.logo != null ? data.logo : "/assets/images/twitch/twitch-square.png",
+                name = data.display_name != null ? data.display_name : "dejanintendo",
+                description = status === "online" ? ": " + data.status : "";
+                var html = '<div class="row channel ' + status + '"><div class="stream-icon"><a href="' + data.url + '" target="_blank"><img src="' + logo + '" class="logo"></a></div><div class="stream-meta"><div class="name" id="name"><a href="' + data.url + '" target="_blank">' + name + '</a></div><div class="status">' + data.status + '</div><div class="game" id="streaming">' + game + '</div></div></div>';
+                document.getElementById("dejanintendo").innerHTML = html;
+          })
+      </script>
+    
   
   
   
@@ -526,7 +568,7 @@
         <div id="mc_embed_signup">
         <form action="https://utahesports.us19.list-manage.com/subscribe/post?u=1e123adb2bd87e04859bb986d&amp;id=0aaac2ec38" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
             <div id="mc_embed_signup_scroll">
-          <h2>Never miss an update! (we don't spam)</h2>
+          <h2>Never miss an update!</h2>
         <div class="mc-field-group">
           <label for="mce-EMAIL">Email Address </label>
           <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
