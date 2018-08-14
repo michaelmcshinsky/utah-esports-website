@@ -10,7 +10,7 @@ permalink: /calendar-data
 		"title":"{{event.title}}",
 		"start": "{{event.start_date}}",
 		"end": "{{event.end_date || event.start_date}}",
-		"allDay":true,
+		"allDay":false,
 		"url":"{{event.url}}"
 	}
 	{%unless forloop.last %},{%endunless%}
