@@ -41,3 +41,15 @@
 .online .game {
   background: #3a960c;
 }
+
+.stream-grid {
+  display: flex;
+  flex-wrap: wrap;
+  .stream-grid-item {
+    flex: 1;
+    max-width: 33%;
+    &:empty {
+      display: none;
+    }
+  }
+}

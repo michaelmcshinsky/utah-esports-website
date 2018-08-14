@@ -1,0 +1,49 @@
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+{% assign cb = '?client_id=94rhzyeshm8l6r2b50i994u4nissnf' %}
+{% assign url = "https://api.twitch.tv/kraken/" %}
+  <div class="heading" id="live-streams" style="margin-top: 0;">
+    <h3>
+      Live Streams
+      <a href="/streams" class="btn btn--default">View All</a>
+    </h3>
+  </div>
+  <div class="stream-grid">
+  {% for streamer in site.data.streamers %}
+    {% if streamer.streams %}
+      <div class="stream-grid-item" id="{{ streamer.name }}"></div>
+      <script>
+        var streamUrl = "{{ url }}/streams/{{ streamer.name }}{{ cb }}"
+        var status;
+        fetch(streamUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            if(data.stream === null || data.stream === undefined) {
+              status = "offline";
+            } else {
+              status = "online";
+            };
+          })
+        var channelUrl = "{{ url }}/channels/{{ streamer.name }}{{ cb }}"
+        fetch(channelUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            console.log(status)
+            if(data.error === 'Unprocessable Entity' || status == 'offline') {
+              var elemOffline = document.querySelector('#{{ streamer.name }}');
+              console.log(elemOffline)
+              elemOffline.parentNode.removeChild(elemOffline);
+            } else {
+              var logo = data.logo != null ? data.logo : "/assets/images/twitch/twitch-square.png";
+              var html = '<div class="channel"><div class="stream-icon"><a href="' + data.url + '" target="_blank"><img src="' + logo + '" class="logo"></a></div></div>';
+              document.getElementById("{{streamer.name}}").innerHTML = html;
+            }
+          })
+      </script>
+    {% endif %}
+  {% endfor %}
+</div>
