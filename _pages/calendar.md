@@ -12,6 +12,12 @@ permalink: /calendar
   $(document).ready(function() {
     $.noConflict();
     $('#calendar').fullCalendar({
+      header: {
+        left: 'month,agendaWeek,agendaDay',
+        center: 'title',
+        right: 'today,prev,next',
+      },
+      defaultView: 'month',
       events:'/calendar-data'
     })
 
