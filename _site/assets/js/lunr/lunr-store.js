@@ -44,6 +44,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-25-Game-night-at-Quarters",
         "teaser":null},{
+        "title": "GameTyrant FGC Monthly",
+        "excerpt":"Please bring setups!! $5 DISCOUNT IF YOU BRING A FULL SETUP! Event Fees:$15 ($10 to Venue and $5 to Prize Pool Pot)$5 discount when you bring a setup TOs Alex Refresh Mykel Cain Jesus Cruz CalderonMessage TOs for more details Schedule: Tekken 712:00PM - 1:30PM - Casuals1:30PM - 4:00PM -...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-08-25-GameTyrant-FGC-Monthly",
+        "teaser":null},{
         "title": "The Salt Packet",
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
         "tags": ["super-smash-brothers"],
