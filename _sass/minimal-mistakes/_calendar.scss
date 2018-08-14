@@ -83,3 +83,11 @@ button.fc-button.fc-state-default {
   box-shadow: none;
   opacity: 1;
 }
+
+.fc-unthemed .fc-divider, .fc-unthemed .fc-list-heading td, .fc-unthemed .fc-popover .fc-header, .fc-unthemed .fc-list-empty {
+  background: none !important;
+}
+
+.fc-day-grid-event .fc-time {
+  display: none;
+}

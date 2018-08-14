@@ -25,6 +25,10 @@
 <lastmod>2018-08-13T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-08-17-Fortnite-Friday</loc>
+<lastmod>2018-08-17T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-18-GameTyrant-Melee-Monthly</loc>
 <lastmod>2018-08-18T00:00:00-06:00</lastmod>
 </url>
@@ -37,6 +41,10 @@
 <lastmod>2018-08-21T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-08-24-Fortnite-Friday</loc>
+<lastmod>2018-08-24T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-25-Game-night-at-Quarters</loc>
 <lastmod>2018-08-25T00:00:00-06:00</lastmod>
 </url>
@@ -47,6 +55,10 @@
 <url>
 <loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
 <lastmod>2018-08-25T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-31-Fortnite-Friday</loc>
+<lastmod>2018-08-31T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer</loc>
@@ -63,6 +75,10 @@
 <url>
 <loc>http://localhost:4000/events/2018-09-06-Get-Lanlocked</loc>
 <lastmod>2018-09-06T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-09-07-Fortnite-Friday</loc>
+<lastmod>2018-09-07T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-11-02-GameTyrant-Expo</loc>
@@ -95,6 +111,9 @@
 <loc>http://localhost:4000/events/2018-08-13-GT-Melee-Weekly</loc>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-08-17-Fortnite-Friday</loc>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-18-GameTyrant-Melee-Monthly</loc>
 </url>
 <url>
@@ -104,6 +123,9 @@
 <loc>http://localhost:4000/events/2018-08-21-Nokto-Monthly-Game-Night</loc>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-08-24-Fortnite-Friday</loc>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-25-Game-night-at-Quarters</loc>
 </url>
 <url>
@@ -111,6 +133,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-31-Fortnite-Friday</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer</loc>
@@ -123,6 +148,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-09-06-Get-Lanlocked</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-09-07-Fortnite-Friday</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-11-02-GameTyrant-Expo</loc>

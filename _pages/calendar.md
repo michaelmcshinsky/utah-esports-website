@@ -13,7 +13,7 @@ permalink: /calendar
     $.noConflict();
     $('#calendar').fullCalendar({
       header: {
-        left: 'month,agendaWeek,agendaDay',
+        left: 'month',
         center: 'title',
         right: 'today,prev,next',
       },

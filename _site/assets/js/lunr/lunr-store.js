@@ -29,6 +29,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-13-GT-Melee-Weekly",
         "teaser":null},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
+        "tags": ["fortnite"],
+        "url": "http://localhost:4000/events/2018-08-17-Fortnite-Friday",
+        "teaser":null},{
         "title": "GameTyrant Melee Monthly",
         "excerpt":"GameTyrant’s Alex Refresh are excited to host another Melee Touranment. PLEASE BRING SET UPS!!! If you bring a full set up I can give you 5$ off venue. Capped at 25 set ups. This tournament is for the player first and foremost! 100% transparency is our gameplan so please if...","categories": [],
         "tags": ["super-smash-brothers"],
@@ -44,6 +49,11 @@ var store = [{
         "tags": ["mario-kart","league-of-legends"],
         "url": "http://localhost:4000/events/2018-08-21-Nokto-Monthly-Game-Night",
         "teaser":null},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
+        "tags": ["fortnite"],
+        "url": "http://localhost:4000/events/2018-08-24-Fortnite-Friday",
+        "teaser":null},{
         "title": "Game night at Quarters! Aug TwitchSLC Meetup",
         "excerpt":"Join us this month at Quarters Arcade Bar!Games, Friends and Drinks! ","categories": [],
         "tags": [],
@@ -58,6 +68,11 @@ var store = [{
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-25-The-Salt-Packet",
+        "teaser":null},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
+        "tags": ["fortnite"],
+        "url": "http://localhost:4000/events/2018-08-31-Fortnite-Friday",
         "teaser":null},{
         "title": "Salt Con End of Summer",
         "excerpt":"Davis Conference Center, Layton UT 48 hours of gaming! ","categories": [],
@@ -78,6 +93,11 @@ var store = [{
         "excerpt":"Two of our favorite things are LAN parties, and vacations, and we’ve had a vision for a long time of combining the two. We were finally able to test it out, and weren’t surprised to find that everyone loved it. Not only does it create an entirely new experience by...","categories": [],
         "tags": ["league-of-legends","fortnite","pubg"],
         "url": "http://localhost:4000/events/2018-09-06-Get-Lanlocked",
+        "teaser":null},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
+        "tags": ["fortnite"],
+        "url": "http://localhost:4000/events/2018-09-07-Fortnite-Friday",
         "teaser":null},{
         "title": "GameTyrant Expo 2018",
         "excerpt":"GameTyrant Expo is BACK After the Legendary set of events that transpired last year in both Melee and Smash 4, GT-X returns November 2nd-4th at the Gateway Mall in Downtown Salt Lake City, Utah! Featuring: Smash Melee (Singles, Doubles) Smash Wii U (Singles, Doubles) Smash 64 (Singles, Doubles) Dragonball FighterZ...","categories": [],
