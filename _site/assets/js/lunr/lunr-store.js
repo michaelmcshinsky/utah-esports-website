@@ -39,6 +39,11 @@ var store = [{
         "tags": ["halo"],
         "url": "http://localhost:4000/events/2018-08-19-Halo-5-Online-2v2-Tournament",
         "teaser":null},{
+        "title": "Nokto Monthly Game Night",
+        "excerpt":"Help us kick off our inaugural casual game night in style. On Tuesday, August 21st, we’ll start holding monthly game nights at Kiln, near Thanksgiving Point, from 7-9 pm. Our friends from the Saltworks will be bringing Rumble Plugs, an awesome game developed locally here in Utah! We’ll also have...","categories": [],
+        "tags": ["mario-kart","league-of-legends"],
+        "url": "http://localhost:4000/events/2018-08-21-Nokto-Monthly-Game-Night",
+        "teaser":null},{
         "title": "Game night at Quarters! Aug TwitchSLC Meetup",
         "excerpt":"Join us this month at Quarters Arcade Bar!Games, Friends and Drinks! ","categories": [],
         "tags": [],

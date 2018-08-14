@@ -33,6 +33,10 @@
 <lastmod>2018-08-19T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-08-21-Nokto-Monthly-Game-Night</loc>
+<lastmod>2018-08-21T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-25-Game-night-at-Quarters</loc>
 <lastmod>2018-08-25T00:00:00-06:00</lastmod>
 </url>
@@ -95,6 +99,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-19-Halo-5-Online-2v2-Tournament</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-21-Nokto-Monthly-Game-Night</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-25-Game-night-at-Quarters</loc>
