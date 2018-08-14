@@ -352,7 +352,6 @@
             return response.json();
           })
           .then(function(data) {
-            console.log(data)
             if(data.stream === null) {
               game = "Offline";
               status = "offline";
@@ -370,7 +369,6 @@
             return response.json();
           })
           .then(function(data) {
-            console.log(data)
             if(data.error === 'Unprocessable Entity') return;
             var logo = data.logo != null ? data.logo : "/assets/images/twitch/twitch-square.png",
                 name = data.display_name != null ? data.display_name : "dejanintendo",
@@ -408,7 +406,6 @@
             return response.json();
           })
           .then(function(data) {
-            console.log(data)
             if(data.stream === null) {
               game = "Offline";
               status = "offline";
@@ -426,7 +423,6 @@
             return response.json();
           })
           .then(function(data) {
-            console.log(data)
             if(data.error === 'Unprocessable Entity') return;
             var logo = data.logo != null ? data.logo : "/assets/images/twitch/twitch-square.png",
                 name = data.display_name != null ? data.display_name : "wucreationz",
