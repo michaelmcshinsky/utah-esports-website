@@ -34,7 +34,7 @@ var store = [{
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-08-17-Fortnite-Friday",
         "teaser":null},{
-        "title": "August Lan Party",
+        "title": "Shine Con",
         "excerpt":"Shine Con is teaming up with 2GGaming to bring you 3 days of non stop gaming action of free play, tournaments, and more! Shine Con is a brand new anime convention happening in Las Vegas, NV! We’re focused on bringing you the best anime and video game related entertainment we can! From our...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-17-Shine-Con",
