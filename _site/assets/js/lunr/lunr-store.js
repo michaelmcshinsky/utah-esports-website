@@ -34,6 +34,11 @@ var store = [{
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-08-17-Fortnite-Friday",
         "teaser":null},{
+        "title": "August Lan Party",
+        "excerpt":"Shine Con is teaming up with 2GGaming to bring you 3 days of non stop gaming action of free play, tournaments, and more! Shine Con is a brand new anime convention happening in Las Vegas, NV! We’re focused on bringing you the best anime and video game related entertainment we can! From our...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-08-17-Shine-Con",
+        "teaser":null},{
         "title": "GameTyrant Melee Monthly",
         "excerpt":"GameTyrant’s Alex Refresh are excited to host another Melee Touranment. PLEASE BRING SET UPS!!! If you bring a full set up I can give you 5$ off venue. Capped at 25 set ups. This tournament is for the player first and foremost! 100% transparency is our gameplan so please if...","categories": [],
         "tags": ["super-smash-brothers"],
@@ -48,6 +53,11 @@ var store = [{
         "excerpt":"Help us kick off our inaugural casual game night in style. On Tuesday, August 21st, we’ll start holding monthly game nights at Kiln, near Thanksgiving Point, from 7-9 pm. Our friends from the Saltworks will be bringing Rumble Plugs, an awesome game developed locally here in Utah! We’ll also have...","categories": [],
         "tags": ["mario-kart","league-of-legends"],
         "url": "http://localhost:4000/events/2018-08-21-Nokto-Monthly-Game-Night",
+        "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-08-23-Nokto-Smash-Weekly",
         "teaser":null},{
         "title": "Fortnite Friday",
         "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
