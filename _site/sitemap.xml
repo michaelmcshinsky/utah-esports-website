@@ -37,6 +37,10 @@
 <lastmod>2018-08-18T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-08-18-League-of-Legends</loc>
+<lastmod>2018-08-18T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-19-Halo-5-Online-2v2-Tournament</loc>
 <lastmod>2018-08-19T00:00:00-06:00</lastmod>
 </url>
@@ -58,6 +62,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-25-GameTyrant-FGC-Monthly</loc>
+<lastmod>2018-08-25T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-25-League-of-Legends</loc>
 <lastmod>2018-08-25T00:00:00-06:00</lastmod>
 </url>
 <url>
@@ -128,6 +136,9 @@
 <loc>http://localhost:4000/events/2018-08-18-GameTyrant-Melee-Monthly</loc>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-08-18-League-of-Legends</loc>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-19-Halo-5-Online-2v2-Tournament</loc>
 </url>
 <url>
@@ -144,6 +155,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-25-GameTyrant-FGC-Monthly</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-25-League-of-Legends</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>

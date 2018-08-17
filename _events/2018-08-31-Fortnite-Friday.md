@@ -1,8 +1,8 @@
 ---
 layout: event
-title:  "Fortnite Friday"
+title:  "ASUS ROG Arena: Fortnite Fridays DUOS Tournament"
 permalink: /events/2018-08-31-Fortnite-Friday
-event_url: "https://www.facebook.com/events/243179846498035/"
+event_url: "https://www.microsoft.com/en-us/store/locations/ut/salt-lake-city/city-creek-center/store-21#eventid=1142308650"
 event_image: "/assets/images/events/2018-08-31-Fortnite-Friday.jpg"
 excerpt: "Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards."
 start_date: 2018-08-31
@@ -15,7 +15,7 @@ venue_address_2:
 venue_city: "Murray"
 venue_state: "Utah"
 venue_zipcode: "84107"
-venue_url: "https://smash.gg/league/rog-arena-fortnite-fridays-1/details"
+venue_url: "https://www.microsoft.com/en-us/store/locations/ut/salt-lake-city/city-creek-center/store-21#eventid=1142308650"
 tags: fortnite
 ---
 
