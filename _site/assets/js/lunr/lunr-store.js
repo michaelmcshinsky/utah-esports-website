@@ -29,7 +29,7 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-13-GT-Melee-Weekly",
         "teaser":null},{
-        "title": "Fortnite Friday",
+        "title": "ASUS ROG Arena: Fortnite Fridays DUOS Tournament",
         "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-08-17-Fortnite-Friday",
@@ -43,6 +43,11 @@ var store = [{
         "excerpt":"GameTyrant’s Alex Refresh are excited to host another Melee Touranment. PLEASE BRING SET UPS!!! If you bring a full set up I can give you 5$ off venue. Capped at 25 set ups. This tournament is for the player first and foremost! 100% transparency is our gameplan so please if...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-18-GameTyrant-Melee-Monthly",
+        "teaser":null},{
+        "title": "ASUS ROG Arena: League of Legends",
+        "excerpt":"The Microsoft Store at City Creekis proud to host weekly League of Legends Tournaments as part of ROG Arena. Players will be playing on one of ten high powered ASUS ROG gaming laptops and compete in a single elimination bracket. Sign up individually or with a team to challenge local...","categories": [],
+        "tags": ["fortnite"],
+        "url": "http://localhost:4000/events/2018-08-18-League-of-Legends",
         "teaser":null},{
         "title": "GameTyrant Melee Monthly",
         "excerpt":"Online Event. See details event link for more information. ","categories": [],
@@ -59,7 +64,7 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-23-Nokto-Smash-Weekly",
         "teaser":null},{
-        "title": "Fortnite Friday",
+        "title": "ASUS ROG Arena: Fortnite Fridays DUOS Tournament",
         "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-08-24-Fortnite-Friday",
@@ -74,12 +79,17 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-25-GameTyrant-FGC-Monthly",
         "teaser":null},{
+        "title": "ASUS ROG Arena: League of Legends",
+        "excerpt":"The Microsoft Store at City Creekis proud to host weekly League of Legends Tournaments as part of ROG Arena. Players will be playing on one of ten high powered ASUS ROG gaming laptops and compete in a single elimination bracket. Sign up individually or with a team to challenge local...","categories": [],
+        "tags": ["league-of-legends"],
+        "url": "http://localhost:4000/events/2018-08-25-League-of-Legends",
+        "teaser":null},{
         "title": "The Salt Packet",
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-25-The-Salt-Packet",
         "teaser":null},{
-        "title": "Fortnite Friday",
+        "title": "ASUS ROG Arena: Fortnite Fridays DUOS Tournament",
         "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-08-31-Fortnite-Friday",
@@ -104,8 +114,8 @@ var store = [{
         "tags": ["league-of-legends","fortnite","pubg"],
         "url": "http://localhost:4000/events/2018-09-06-Get-Lanlocked",
         "teaser":null},{
-        "title": "Fortnite Friday",
-        "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
+        "title": "ASUS ROG Arena: Fortnite Fridays DUOS Tournament",
+        "excerpt":"Your Microsoft Store will be hosting an ASUS ROG Arena: Fortnite Fridays Tournament! Join your local Fortnite community and test your skills in a Solo/Duos/Squads tournament for prizes! OPTIONAL: Please click here to access registration and tournament information: https://smash.gg/rogfortnite This event is FREE for all players. All skill levels are...","categories": [],
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-09-07-Fortnite-Friday",
         "teaser":null},{
