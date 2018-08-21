@@ -69,6 +69,11 @@ var store = [{
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-08-24-Fortnite-Friday",
         "teaser":null},{
+        "title": "Fall 2018 Opening Social",
+        "excerpt":"Another school year has begun, but the fun hasn’t ended yet! Crimson Gaming invites you to our annual opening social! Join us for fun, games, and an opportunity to learn more about Gaming on Campus! There will be pizza and casual games to enjoy. Be sure to bring a friend...","categories": [],
+        "tags": ["social","fortnite","super-smash-bros","league-of-legends"],
+        "url": "http://localhost:4000/events/2018-08-24-Opening-Social",
+        "teaser":null},{
         "title": "Game night at Quarters! Aug TwitchSLC Meetup",
         "excerpt":"Join us this month at Quarters Arcade Bar!Games, Friends and Drinks! ","categories": [],
         "tags": [],
@@ -84,6 +89,11 @@ var store = [{
         "tags": ["league-of-legends"],
         "url": "http://localhost:4000/events/2018-08-25-League-of-Legends",
         "teaser":null},{
+        "title": "The International 8 Pubstomp",
+        "excerpt":"GameTyrant is hosting a pubstomp for all your TI viewing pleasures for the finals!! Free to come watch and hangout, OR $10 gives you all day access to PC’s to game too while you’re here (VR Excluded) Look forward to seeing you all there! If you have questions pleae e-mail...","categories": [],
+        "tags": ["dota-2"],
+        "url": "http://localhost:4000/events/2018-08-25-Pubstomp",
+        "teaser":null},{
         "title": "The Salt Packet",
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
         "tags": ["super-smash-brothers"],
@@ -94,6 +104,11 @@ var store = [{
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-08-31-Fortnite-Friday",
         "teaser":null},{
+        "title": "Kick Off Block Party and Social",
+        "excerpt":"Help us kick off Fall Semester with a day packed full of fun! Catch us at Block Party from 8 a.m. to 2 p.m. handing out TONS of swag and get some information about our new esports lab, or get the info on tryouts for our varsity teams! Want to...","categories": [],
+        "tags": ["social"],
+        "url": "http://localhost:4000/events/2018-08-31-Kick-Off-Block-Party-and-Social",
+        "teaser":null},{
         "title": "Salt Con End of Summer",
         "excerpt":"Davis Conference Center, Layton UT 48 hours of gaming! ","categories": [],
         "tags": [],
@@ -103,6 +118,11 @@ var store = [{
         "excerpt":"Doors open at NOON! $15 Entry. $5 of entry goes to the Prize PotDouble Elimination Head to head event. Console players may also compete! (must bring own controller, and have an Epic account) BYOC for $5 off of the entry fee. THINGS YOU NEED: you must have an Epic account....","categories": [],
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament",
+        "teaser":null},{
+        "title": "September Smash Jam",
+        "excerpt":"Join us for our monthly fighting game tournament series - Smash Jam - featuring Super Smash Bros. Wii U, Rivals of Aether, PM, and Pokkén Tournament Smash.gg page: https://smash.gg/tournament/september-2018-smash-jam/details The following is the schedule for the event. Times listed are times when registration ends, with the tournament starting 30 minutes...","categories": [],
+        "tags": ["super-smash-bros","rivals-of-aether","pokken"],
+        "url": "http://localhost:4000/events/2018-09-01-September-Smash-Jam",
         "teaser":null},{
         "title": "FanX® Salt Lake Comic Convention 2018",
         "excerpt":"FanX® Salt Lake Comic Convention™s (formerly Salt Lake Comic Con) are Dan Farr Productions’ annual events, and are now the most attended conventions in the state of Utah and the largest comic convention in North America per capita. The conventions have attracted celebrities like Stan Lee, Chris Evans, Mark Hamill,...","categories": [],
@@ -118,6 +138,11 @@ var store = [{
         "excerpt":"Your Microsoft Store will be hosting an ASUS ROG Arena: Fortnite Fridays Tournament! Join your local Fortnite community and test your skills in a Solo/Duos/Squads tournament for prizes! OPTIONAL: Please click here to access registration and tournament information: https://smash.gg/rogfortnite This event is FREE for all players. All skill levels are...","categories": [],
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-09-07-Fortnite-Friday",
+        "teaser":null},{
+        "title": "GameTyrant Dota 2 Tournament",
+        "excerpt":"Event Fees Online registration $10 per player ($50 per team) At Door $15 per player ($75 per team) Schedule 11:00AM - Venue Opens/Registration Opens 12:00PM - Tournament Begins Format BYOC (Bring Your Own Computer) LAN Tournament For an additional $10 we can supply you with a computer. (It will be...","categories": [],
+        "tags": ["dota-2"],
+        "url": "http://localhost:4000/events/2018-09-08-GameTyrant-Dota-2-Tournament",
         "teaser":null},{
         "title": "GameTyrant Expo 2018",
         "excerpt":"GameTyrant Expo is BACK After the Legendary set of events that transpired last year in both Melee and Smash 4, GT-X returns November 2nd-4th at the Gateway Mall in Downtown Salt Lake City, Utah! Featuring: Smash Melee (Singles, Doubles) Smash Wii U (Singles, Doubles) Smash 64 (Singles, Doubles) Dragonball FighterZ...","categories": [],
