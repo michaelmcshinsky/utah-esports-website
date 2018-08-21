@@ -10,6 +10,7 @@ permalink: /calendar
 
 <script>
   $(document).ready(function() {
+    var w = window.innerWidth;
     $.noConflict();
     $('#calendar').fullCalendar({
       header: {
@@ -21,7 +22,7 @@ permalink: /calendar
         month: 'Month',
         listWeek: 'Week'
       },
-      defaultView: 'month',
+      defaultView: w < 767 ? 'listWeek' : 'month',
       events:'/calendar-data'
     })
 
