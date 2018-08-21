@@ -98,3 +98,9 @@ button.fc-button.fc-state-default {
 .fc-ltr .fc-list-item-marker {
   display: none;
 }
+tr.fc-list-heading {
+  background: rgba(3, 169, 243, 0.25) !important;
+}
+.fc-left button.fc-state-active, .fc-left button:hover {
+  background: rgba(3, 169, 243, 0.25);
+}
