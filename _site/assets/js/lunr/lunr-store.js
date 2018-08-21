@@ -114,6 +114,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2019-02-28-Salt-Con-End-of-Summer",
         "teaser":null},{
+        "title": "Day on the Quad and Opening Social",
+        "excerpt":"This will be our first event of the year kicking off with new announcements, more games, and tons of giveaways. We’ll be debuting the USU Esports Studio and the Developmental Esports course. We’ll be occupying multiple rooms at and near Educ 220. ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-09-01-Day-On-The-Quad-And-Opening-Social",
+        "teaser":null},{
         "title": "GameTyrant 1v1 PC Fortnite Tournament ",
         "excerpt":"Doors open at NOON! $15 Entry. $5 of entry goes to the Prize PotDouble Elimination Head to head event. Console players may also compete! (must bring own controller, and have an Epic account) BYOC for $5 off of the entry fee. THINGS YOU NEED: you must have an Epic account....","categories": [],
         "tags": ["fortnite"],
