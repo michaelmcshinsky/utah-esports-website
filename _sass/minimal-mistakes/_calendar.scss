@@ -91,3 +91,10 @@ button.fc-button.fc-state-default {
 .fc-day-grid-event .fc-time {
   display: none;
 }
+
+.fc-unthemed .fc-list-item:hover td {
+  background-color: #282b31;
+}
+.fc-ltr .fc-list-item-marker {
+  display: none;
+}

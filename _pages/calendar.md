@@ -13,9 +13,13 @@ permalink: /calendar
     $.noConflict();
     $('#calendar').fullCalendar({
       header: {
-        left: 'month',
+        left: 'month, listWeek',
         center: 'title',
         right: 'today,prev,next',
+      },
+      buttonText: {
+        month: 'Month',
+        listWeek: 'Week'
       },
       defaultView: 'month',
       events:'/calendar-data'
