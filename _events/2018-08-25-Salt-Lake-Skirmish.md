@@ -17,7 +17,6 @@ venue_state: "Utah"
 venue_zipcode: "84112"
 venue_url: "https://smash.gg/tournament/salt-lake-skirmish-9-1-2018"
 tags: tekken street-fighter
-featured: true
 ---
 
 11 AM - 1 PM: Casuals
