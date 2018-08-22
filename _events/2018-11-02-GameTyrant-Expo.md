@@ -4,7 +4,6 @@ title:  "GameTyrant Expo 2018"
 permalink: /events/2018-11-02-GameTyrant-Expo
 event_url: "https://smash.gg/tournament/gametyrant-expo-2018/details"
 event_image: "/assets/images/events/2018-11-02-GameTyrant-Expo.jpg"
-featured: true
 excerpt: "After the Legendary set of events that transpired last year in both Melee and Smash 4, GT-X returns November 2nd-4th at the Gateway Mall in Downtown Salt Lake City, Utah!"
 start_date: 2018-11-02
 start_time: 10:00:00 AM
