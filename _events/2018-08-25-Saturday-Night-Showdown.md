@@ -16,7 +16,7 @@ venue_city: "Salt Lake City"
 venue_state: "Utah"
 venue_zipcode: "84112"
 venue_url: "https://www.facebook.com/events/250888162229498/"
-tags: super-smash-bros rivals-of-aether pokken
+tags: 
 ---
 
 Doubles start at 8pm and singles at 8:45. We got the rest of the FGC there as well so come play some fighting games!
