@@ -94,6 +94,16 @@ var store = [{
         "tags": ["dota-2"],
         "url": "http://localhost:4000/events/2018-08-25-Pubstomp",
         "teaser":null},{
+        "title": "Salt Lake Skirmish",
+        "excerpt":"11 AM - 1 PM: Casuals 12 - 1 PM: Sign ins 1 PM -4 PM: SF, DBF, BBTAG 4 PM - 11 PM: GG, BB, UNI, T7 5 PM - Side Games Back at it again with another monthly! Please look forward to it! ALL tournament sets are 2...","categories": [],
+        "tags": ["tekken","street-fighter"],
+        "url": "http://localhost:4000/events/2018-08-25-Salt-Lake-Skirmish",
+        "teaser":null},{
+        "title": "Saturday Night Showdown at The U of U",
+        "excerpt":"Doubles start at 8pm and singles at 8:45. We got the rest of the FGC there as well so come play some fighting games! ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-08-25-Saturday-Night-Showdown",
+        "teaser":null},{
         "title": "The Salt Packet",
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
         "tags": ["super-smash-brothers"],
