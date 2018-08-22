@@ -16,6 +16,7 @@ venue_city: "Layton"
 venue_state: "Utah"
 venue_zipcode: "84041"
 venue_url: "http://www.davisconferencecenter.com/"
+featured: true
 ---
 
 Davis Conference Center, Layton UT
