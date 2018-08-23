@@ -142,4 +142,4 @@ permalink: /
         }).mount()
       }
   }
-</script>
+</script> 
