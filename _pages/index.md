@@ -62,9 +62,10 @@ permalink: /
 <ul class="event-list">
 {% assign counter = 0 %}
 {% assign curDate = site.time | date: '%s' %}
+{% assign newDate = curDate | minus:86400 | date: '%s' %}
 {% for event in site.events %}
   {% assign eventStartDate = event.start_date | date: '%s' %}
-  {% if eventStartDate >= curDate and counter < 4 %}
+  {% if eventStartDate >= newDate and counter < 4 %}
     {% assign counter = counter | plus: 1 %}
     <li class="event-item">
       <div class="event-image">
