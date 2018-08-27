@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Privacy Policy
+header:
+  teaser: "/assets/images/site/logo-square.png"
 permalink: /privacy-policy
 ---
 

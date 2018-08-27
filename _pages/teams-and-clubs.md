@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Teams and Clubs
+header:
+  teaser: "/assets/images/site/logo-square.png"
 permalink: /teams-and-clubs
 ---
 

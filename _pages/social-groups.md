@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Social Groups
+header:
+  teaser: "/assets/images/site/logo-square.png"
 permalink: /social-groups
 ---
 
