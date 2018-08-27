@@ -141,7 +141,7 @@ var store = [{
         "teaser":null},{
         "title": "Rocket League Tournament and Tryouts",
         "excerpt":"Wow! Savage! Calculated. You might be able to air dribble past your opponents, but can you dribble on the ground and flick at the perfect time? Sure, you can pinch it of the wall any time you want, but can you defend against a nasty ceiling shot? Get ready to...","categories": [],
-        "tags": [],
+        "tags": ["rocket-league"],
         "url": "http://localhost:4000/events/2018-09-04-Rocket-League-Tournament-and-Tryouts",
         "teaser":null},{
         "title": "FanX® Salt Lake Comic Convention 2018",
@@ -159,10 +159,20 @@ var store = [{
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-09-07-Fortnite-Friday",
         "teaser":null},{
+        "title": "Salty Pokkén",
+        "excerpt":"Join us at our Friday Pokken event starting at 8 PM. Click on the Event Link button for more questions, updates and social chatter. Watch the stream at: https://twitch.tv/saltygamingshow ","categories": [],
+        "tags": ["pokken"],
+        "url": "http://localhost:4000/events/2018-09-21-Salty-Pokken",
+        "teaser":null},{
         "title": "GameTyrant Dota 2 Tournament",
         "excerpt":"Event Fees Online registration $10 per player ($50 per team) At Door $15 per player ($75 per team) Schedule 11:00AM - Venue Opens/Registration Opens 12:00PM - Tournament Begins Format BYOC (Bring Your Own Computer) LAN Tournament For an additional $10 we can supply you with a computer. (It will be...","categories": [],
         "tags": ["dota-2"],
         "url": "http://localhost:4000/events/2018-09-08-GameTyrant-Dota-2-Tournament",
+        "teaser":null},{
+        "title": "Salty Pokkén",
+        "excerpt":"Join us at our Friday Pokken event starting at 8 PM. Click on the Event Link button for more questions, updates and social chatter. Watch the stream at: https://twitch.tv/saltygamingshow ","categories": [],
+        "tags": ["pokken"],
+        "url": "http://localhost:4000/events/2018-09-07-Salty-Pokken",
         "teaser":null},{
         "title": "GameTyrant Expo 2018",
         "excerpt":"GameTyrant Expo is BACK After the Legendary set of events that transpired last year in both Melee and Smash 4, GT-X returns November 2nd-4th at the Gateway Mall in Downtown Salt Lake City, Utah! Featuring: Smash Melee (Singles, Doubles) Smash Wii U (Singles, Doubles) Smash 64 (Singles, Doubles) Dragonball FighterZ...","categories": [],

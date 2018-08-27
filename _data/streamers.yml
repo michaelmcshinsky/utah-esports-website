@@ -147,5 +147,8 @@
 - name: SevenKarat
   streams: league-of-legends
 
+- name: saltygamingshow
+  streams: pokken
+
 - name: NCypher
   streams: call-of-duty rocket-league world-of-warcraft warcraft league-of-legends
