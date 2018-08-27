@@ -139,6 +139,11 @@ var store = [{
         "tags": ["super-smash-bros","rivals-of-aether","pokken"],
         "url": "http://localhost:4000/events/2018-09-01-September-Smash-Jam",
         "teaser":null},{
+        "title": "Rocket League Tournament and Tryouts",
+        "excerpt":"Wow! Savage! Calculated. You might be able to air dribble past your opponents, but can you dribble on the ground and flick at the perfect time? Sure, you can pinch it of the wall any time you want, but can you defend against a nasty ceiling shot? Get ready to...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-09-04-Rocket-League-Tournament-and-Tryouts",
+        "teaser":null},{
         "title": "FanX® Salt Lake Comic Convention 2018",
         "excerpt":"FanX® Salt Lake Comic Convention™s (formerly Salt Lake Comic Con) are Dan Farr Productions’ annual events, and are now the most attended conventions in the state of Utah and the largest comic convention in North America per capita. The conventions have attracted celebrities like Stan Lee, Chris Evans, Mark Hamill,...","categories": [],
         "tags": [],
