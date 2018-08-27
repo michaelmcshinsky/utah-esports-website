@@ -169,6 +169,11 @@ var store = [{
         "tags": ["dota-2"],
         "url": "http://localhost:4000/events/2018-09-08-GameTyrant-Dota-2-Tournament",
         "teaser":null},{
+        "title": "Club Rush",
+        "excerpt":"Swing by our set-up to check out what we have to offer this year with our Intramurals, competitive team tryouts starting on Sep 20th, and some free swag! Depending on the location (TBD) we’ll be able to set up some Smash Bros for people to play and just hang out....","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-09-18-Club-Rush",
+        "teaser":null},{
         "title": "Salty Pokkén",
         "excerpt":"Join us at our Friday Pokken event starting at 8 PM. Click on the Event Link button for more questions, updates and social chatter. Watch the stream at: https://twitch.tv/saltygamingshow ","categories": [],
         "tags": ["pokken"],
