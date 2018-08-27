@@ -2,6 +2,8 @@
 layout: default
 title: Event Calendar
 permalink: /calendar
+header:
+  teaser: "/assets/images/pages/calendar/utah-esports-calendar.png"
 ---
 <script type="text/javascript" src="/assets/js/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.js"></script>
