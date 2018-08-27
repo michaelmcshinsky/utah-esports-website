@@ -1,6 +1,8 @@
 ---
 layout: default
 title: All Streams
+header:
+  teaser: "/assets/images/site/logo-square.png"
 permalink: /streamers
 ---
 

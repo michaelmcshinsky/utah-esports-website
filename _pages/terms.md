@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Terms and Conditions
+header:
+  teaser: "/assets/images/site/logo-square.png"
 permalink: /terms-and-conditions
 ---
 

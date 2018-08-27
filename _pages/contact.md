@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Contact
+header:
+  teaser: "/assets/images/site/logo-square.png"
 permalink: /contact
 ---
 

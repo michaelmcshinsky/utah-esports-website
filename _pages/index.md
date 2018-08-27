@@ -2,6 +2,8 @@
 title: 
 layout: landing
 description: We promote, support, and grow the Utah eSports LANs, games, tournaments, and events as well as local streams and community resources
+header:
+  teaser: "/assets/images/site/logo-square.png"
 permalink: /
 ---
 

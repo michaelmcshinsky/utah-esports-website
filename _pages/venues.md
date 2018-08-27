@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Venues and Vendors
+header:
+  teaser: "/assets/images/site/logo-square.png"
 permalink: /venues
 ---
 

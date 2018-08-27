@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Submit Event
+header:
+  teaser: "/assets/images/site/logo-square.png"
 permalink: /submit-event
 ---
 <div class="iframe-container">
