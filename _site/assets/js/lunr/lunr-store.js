@@ -109,6 +109,11 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-25-The-Salt-Packet",
         "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
         "title": "ASUS ROG Arena: Fortnite Fridays DUOS Tournament",
         "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
         "tags": ["fortnite"],
@@ -154,6 +159,11 @@ var store = [{
         "tags": ["league-of-legends","fortnite","pubg"],
         "url": "http://localhost:4000/events/2018-09-06-Get-Lanlocked",
         "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
         "title": "ASUS ROG Arena: Fortnite Fridays DUOS Tournament",
         "excerpt":"Your Microsoft Store will be hosting an ASUS ROG Arena: Fortnite Fridays Tournament! Join your local Fortnite community and test your skills in a Solo/Duos/Squads tournament for prizes! OPTIONAL: Please click here to access registration and tournament information: https://smash.gg/rogfortnite This event is FREE for all players. All skill levels are...","categories": [],
         "tags": ["fortnite"],
@@ -169,20 +179,70 @@ var store = [{
         "tags": ["dota-2"],
         "url": "http://localhost:4000/events/2018-09-08-GameTyrant-Dota-2-Tournament",
         "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
         "title": "Club Rush",
         "excerpt":"Swing by our set-up to check out what we have to offer this year with our Intramurals, competitive team tryouts starting on Sep 20th, and some free swag! Depending on the location (TBD) we’ll be able to set up some Smash Bros for people to play and just hang out....","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2018-09-18-Club-Rush",
+        "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
         "teaser":null},{
         "title": "Salty Pokkén",
         "excerpt":"Join us at our Friday Pokken event starting at 8 PM. Click on the Event Link button for more questions, updates and social chatter. Watch the stream at: https://twitch.tv/saltygamingshow ","categories": [],
         "tags": ["pokken"],
         "url": "http://localhost:4000/events/2018-09-07-Salty-Pokken",
         "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
         "title": "GameTyrant Expo 2018",
         "excerpt":"GameTyrant Expo is BACK After the Legendary set of events that transpired last year in both Melee and Smash 4, GT-X returns November 2nd-4th at the Gateway Mall in Downtown Salt Lake City, Utah! Featuring: Smash Melee (Singles, Doubles) Smash Wii U (Singles, Doubles) Smash 64 (Singles, Doubles) Dragonball FighterZ...","categories": [],
         "tags": ["super-smash-brothers","dragonball-z","rivals-of-aether","street-fighter","tekken"],
         "url": "http://localhost:4000/events/2018-11-02-GameTyrant-Expo",
+        "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":null},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
         "teaser":null},{
         "title": "UNC Holiday Party",
         "excerpt":"Join us for our the Utah Nintendo Community November event on Saturday, December 8tth from 1:30 to 4:30 pm MST. RSVP now to get notifications when more details are posted. With Super Smash Bros. Ultimate releasing on Friday, December 7th, you can guarantee that we will be playing A LOT...","categories": [],
