@@ -17,6 +17,7 @@ venue_city: "Ogden"
 venue_state: "Utah"
 venue_zipcode: "84402-3298"
 venue_url: "https://www.facebook.com/events/257978311491664/?notif_t=plan_user_invited&notif_id=1535382324019736"
+tags: rocket-league
 ---
 
 Wow! Savage! Calculated.
