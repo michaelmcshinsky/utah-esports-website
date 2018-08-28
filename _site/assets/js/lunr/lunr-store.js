@@ -104,7 +104,7 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2018-08-25-Saturday-Night-Showdown",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
-        "title": "Club Rush",
+        "title": "Campus Rec Kickoff",
         "excerpt":"Come stop by our booth to learn more about the intramural league, tryouts for our competitive teams, and free goodies! Location: UVU - Plaza west of the SLWC Building ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2018-09-18-Club-Rush",
