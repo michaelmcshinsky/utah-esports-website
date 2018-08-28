@@ -85,8 +85,8 @@
 <lastmod>2018-08-25T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
-<lastmod>2018-08-25T00:00:00-06:00</lastmod>
+<loc>http://localhost:4000/events/2018-09-18-Club-Rush</loc>
+<lastmod>2018-08-29T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/events/Nokto-Smash-Weekly</loc>
@@ -159,6 +159,10 @@
 <url>
 <loc>http://localhost:4000/events/2018-09-07-Salty-Pokken</loc>
 <lastmod>2018-09-21T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
+<lastmod>2018-09-22T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/events/Nokto-Smash-Weekly</loc>
@@ -268,7 +272,7 @@
 <loc>http://localhost:4000/events/2018-08-25-Saturday-Night-Showdown</loc>
 </url>
 <url>
-<loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
+<loc>http://localhost:4000/events/2018-09-18-Club-Rush</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/Nokto-Smash-Weekly</loc>
@@ -323,6 +327,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-09-07-Salty-Pokken</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/Nokto-Smash-Weekly</loc>
