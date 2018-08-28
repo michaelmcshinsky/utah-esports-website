@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Club Rush"
+title:  "Campus Rec Kickoff"
 permalink: /events/2018-09-18-Club-Rush
 event_url: "https://www.facebook.com/events/1862130210521890/"
 event_image: "/assets/images/events/2018-09-18-Club-Rush.jpg"
