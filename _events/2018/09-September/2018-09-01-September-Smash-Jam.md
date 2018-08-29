@@ -16,7 +16,7 @@ venue_city: "Salt Lake City"
 venue_state: "Utah"
 venue_zipcode: "84112"
 venue_url: "https://www.facebook.com/events/1918002178245444/"
-tags: super-smash-bros rivals-of-aether pokken
+tags: super-smash-brothers rivals-of-aether pokken
 ---
 
 Join us for our monthly fighting game tournament series - Smash Jam - featuring Super Smash Bros. Wii U, Rivals of Aether, PM, and Pokkén Tournament

@@ -149,6 +149,10 @@
 <lastmod>2018-09-13T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-09-15-GT-Melee-Monthly-September</loc>
+<lastmod>2018-09-15T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-09-18-Club-Rush</loc>
 <lastmod>2018-09-18T00:00:00-06:00</lastmod>
 </url>
@@ -322,6 +326,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/Nokto-Smash-Weekly</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-09-15-GT-Melee-Monthly-September</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-09-18-Club-Rush</loc>
