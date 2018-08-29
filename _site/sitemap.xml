@@ -77,10 +77,6 @@
 <lastmod>2018-08-25T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/events/2018-08-25-Salt-Lake-Skirmish</loc>
-<lastmod>2018-08-25T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/events/2018-08-25-Saturday-Night-Showdown</loc>
 <lastmod>2018-08-25T00:00:00-06:00</lastmod>
 </url>
@@ -110,6 +106,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament</loc>
+<lastmod>2018-09-01T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-25-Salt-Lake-Skirmish</loc>
 <lastmod>2018-09-01T00:00:00-06:00</lastmod>
 </url>
 <url>
@@ -163,6 +163,10 @@
 <url>
 <loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
 <lastmod>2018-09-22T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/events/Dibzs-Monday-Weekly</loc>
+<lastmod>2018-09-25T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/events/Nokto-Smash-Weekly</loc>
@@ -266,9 +270,6 @@
 <loc>http://localhost:4000/events/2018-08-25-Pubstomp</loc>
 </url>
 <url>
-<loc>http://localhost:4000/events/2018-08-25-Salt-Lake-Skirmish</loc>
-</url>
-<url>
 <loc>http://localhost:4000/events/2018-08-25-Saturday-Night-Showdown</loc>
 </url>
 <url>
@@ -291,6 +292,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-08-25-Salt-Lake-Skirmish</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-09-01-September-Smash-Jam</loc>
@@ -330,6 +334,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/Dibzs-Monday-Weekly</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/Nokto-Smash-Weekly</loc>

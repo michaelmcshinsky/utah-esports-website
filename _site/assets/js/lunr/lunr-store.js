@@ -94,11 +94,6 @@ var store = [{
         "tags": ["dota-2"],
         "url": "http://localhost:4000/events/2018-08-25-Pubstomp",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
-        "title": "Salt Lake Skirmish",
-        "excerpt":"11 AM - 1 PM: Casuals 12 - 1 PM: Sign ins 1 PM -4 PM: SF, DBF, BBTAG 4 PM - 11 PM: GG, BB, UNI, T7 5 PM - Side Games Back at it again with another monthly! Please look forward to it! ALL tournament sets are 2...","categories": [],
-        "tags": ["tekken","street-fighter"],
-        "url": "http://localhost:4000/events/2018-08-25-Salt-Lake-Skirmish",
-        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Saturday Night Showdown at The U of U",
         "excerpt":"Doubles start at 8pm and singles at 8:45. We got the rest of the FGC there as well so come play some fighting games! ","categories": [],
         "tags": [],
@@ -138,6 +133,11 @@ var store = [{
         "excerpt":"Doors open at NOON! $15 Entry. $5 of entry goes to the Prize PotDouble Elimination Head to head event. Console players may also compete! (must bring own controller, and have an Epic account) BYOC for $5 off of the entry fee. THINGS YOU NEED: you must have an Epic account....","categories": [],
         "tags": ["fortnite"],
         "url": "http://localhost:4000/events/2018-09-01-GameTyrant-1v1-PC-Fortnite-Tournament",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Salt Lake Skirmish",
+        "excerpt":"11 AM - 1 PM: Casuals 12 - 1 PM: Sign ins 1 PM -4 PM: SF, DBF, BBTAG 4 PM - 11 PM: GG, BB, UNI, T7 5 PM - Side Games Back at it again with another monthly! Please look forward to it! ALL tournament sets are 2...","categories": [],
+        "tags": ["tekken","street-fighter"],
+        "url": "http://localhost:4000/events/2018-08-25-Salt-Lake-Skirmish",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "September Smash Jam",
         "excerpt":"Join us for our monthly fighting game tournament series - Smash Jam - featuring Super Smash Bros. Wii U, Rivals of Aether, PM, and Pokkén Tournament Smash.gg page: https://smash.gg/tournament/september-2018-smash-jam/details The following is the schedule for the event. Times listed are times when registration ends, with the tournament starting 30 minutes...","categories": [],
@@ -203,6 +203,11 @@ var store = [{
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-25-The-Salt-Packet",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Dibz's Monday Weekly",
+        "excerpt":"We are starting a new tournament in Springville! This one will be ran by Riley Dibble, aka Dibz! It will be doing the standard $5 venue, $5 bracket by-in. Monitors and switch setups will be needed, and the first couple who do bring theirs will get their venue waived! ","categories": [],
+        "tags": ["pokken"],
+        "url": "http://localhost:4000/events/Dibzs-Monday-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
