@@ -141,7 +141,7 @@ var store = [{
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "September Smash Jam",
         "excerpt":"Join us for our monthly fighting game tournament series - Smash Jam - featuring Super Smash Bros. Wii U, Rivals of Aether, PM, and Pokkén Tournament Smash.gg page: https://smash.gg/tournament/september-2018-smash-jam/details The following is the schedule for the event. Times listed are times when registration ends, with the tournament starting 30 minutes...","categories": [],
-        "tags": ["super-smash-bros","rivals-of-aether","pokken"],
+        "tags": ["super-smash-brothers","rivals-of-aether","pokken"],
         "url": "http://localhost:4000/events/2018-09-01-September-Smash-Jam",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Rocket League Tournament and Tryouts",
@@ -183,6 +183,11 @@ var store = [{
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "GT Melee Monthly",
+        "excerpt":"GameTyrant’s Alex Refresh are excited to host another Melee Touranment. PLEASE BRING SET UPS!!! If you bring a full set up I can give you 5$ off venue. Capped at 25 set ups. This tournament is for the player first and foremost! 100% transparency is our gameplan so please if...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-09-15-GT-Melee-Monthly-September",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Club Rush",
         "excerpt":"Swing by our set-up to check out what we have to offer this year with our Intramurals, competitive team tryouts starting on Sep 20th, and some free swag! Depending on the location (TBD) we’ll be able to set up some Smash Bros for people to play and just hang out....","categories": [],
