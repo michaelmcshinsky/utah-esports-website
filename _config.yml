@@ -20,7 +20,7 @@ title_separator          : "-"
 name                     : "Utah Esports"
 description              : "Eat Sleep Game."
 url                      : "https://utahesports.net"
-baseurl                  : "/"
+baseurl                  : #
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/site/logo-square.png"
 # breadcrumbs            : false # true, false (default)
