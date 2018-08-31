@@ -109,6 +109,11 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "12 Hour Game Night",
+        "excerpt":"Tired of being stuck at home on a Friday? Did your friends forget to invite you to that cool meetup? Just want to meet some new people? Well look no further! I’ve created the Utah Social Group as a way to organize awesome events with the geek in mind. Boardgame...","categories": [],
+        "tags": ["lan"],
+        "url": "http://localhost:4000/events/2018-08-31-12-Hour-Game-Night",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "ASUS ROG Arena: Fortnite Fridays DUOS Tournament",
         "excerpt":"Join us at Microsoft Store for weekly tournaments at ROG Arena’s Fortnite Fridays. Play like the pros in a fun, elimination-style format and win prizes including V-Bucks or Microsoft gift cards. Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and...","categories": [],
         "tags": ["fortnite"],

@@ -8,7 +8,7 @@ excerpt: "Help us kick off Fall Semester with a day packed full of fun!"
 start_date: 2018-08-31
 start_time: 08:00:00 AM
 end_date: 2018-08-31
-end_time: 08:00:00 PM
+end_time: 02:00:00 PM
 venue_title: "Weber State University"
 venue_address_1: "3848 Harrison Blvd"
 venue_address_2:
