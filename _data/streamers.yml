@@ -150,5 +150,11 @@
 - name: saltygamingshow
   streams: pokken
 
+- name: DreiManatee
+  streams: super-smash-brothers
+
+- name: 1yep
+  streams: super-smash-brothers
+
 - name: NCypher
   streams: call-of-duty rocket-league world-of-warcraft warcraft league-of-legends

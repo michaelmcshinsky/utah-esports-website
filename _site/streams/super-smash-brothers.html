@@ -374,10 +374,95 @@
   
   
   
+    
+      <div class="col-xs-6 col-sm-4 col-md-3" style="margin-bottom: 30px;">
+        <div class="stream-container">
+          <div id="DreiManatee"></div>
+        </div>
+      </div>
+      <script>
+        var streamUrl = "https://api.twitch.tv/kraken//streams/DreiManatee?client_id=94rhzyeshm8l6r2b50i994u4nissnf"
+        var game, status;
+        fetch(streamUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            if(data.stream === null) {
+              game = "Offline";
+              status = "offline";
+            } else if(data.stream === undefined) {
+              game = "Account closed";
+              status = "offline";
+            } else {
+              game = "Online";
+              status = "online";
+            };
+          })
+        var channelUrl = "https://api.twitch.tv/kraken//channels/DreiManatee?client_id=94rhzyeshm8l6r2b50i994u4nissnf"
+        fetch(channelUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            if(data.error === 'Unprocessable Entity') return;
+            var logo = data.logo != null ? data.logo : "/assets/images/twitch/twitch-square.png",
+                name = data.display_name != null ? data.display_name : "DreiManatee",
+                description = status === "online" ? ": " + data.status : "";
+                var html = '<div class="row channel ' + status + '"><div class="stream-icon"><a href="' + data.url + '" target="_blank"><img src="' + logo + '" class="logo"></a></div><div class="stream-meta"><div class="name" id="name"><a href="' + data.url + '" target="_blank">' + name + '</a></div><div class="status">' + data.status + '</div><div class="game" id="streaming">' + game + '</div></div></div>';
+                document.getElementById("DreiManatee").innerHTML = html;
+          })
+      </script>
+    
+  
+  
+    
+      <div class="col-xs-6 col-sm-4 col-md-3" style="margin-bottom: 30px;">
+        <div class="stream-container">
+          <div id="1yep"></div>
+        </div>
+      </div>
+      <script>
+        var streamUrl = "https://api.twitch.tv/kraken//streams/1yep?client_id=94rhzyeshm8l6r2b50i994u4nissnf"
+        var game, status;
+        fetch(streamUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            if(data.stream === null) {
+              game = "Offline";
+              status = "offline";
+            } else if(data.stream === undefined) {
+              game = "Account closed";
+              status = "offline";
+            } else {
+              game = "Online";
+              status = "online";
+            };
+          })
+        var channelUrl = "https://api.twitch.tv/kraken//channels/1yep?client_id=94rhzyeshm8l6r2b50i994u4nissnf"
+        fetch(channelUrl)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(data) {
+            if(data.error === 'Unprocessable Entity') return;
+            var logo = data.logo != null ? data.logo : "/assets/images/twitch/twitch-square.png",
+                name = data.display_name != null ? data.display_name : "1yep",
+                description = status === "online" ? ": " + data.status : "";
+                var html = '<div class="row channel ' + status + '"><div class="stream-icon"><a href="' + data.url + '" target="_blank"><img src="' + logo + '" class="logo"></a></div><div class="stream-meta"><div class="name" id="name"><a href="' + data.url + '" target="_blank">' + name + '</a></div><div class="status">' + data.status + '</div><div class="game" id="streaming">' + game + '</div></div></div>';
+                document.getElementById("1yep").innerHTML = html;
+          })
+      </script>
+    
+  
+  
   
   </div>
   
-    <p>No streamers here yet?!? Help us out and submit a streamers information if they play this game. Email us at <a href="mailto:info@utahesports.net">info@utahesports.net</a></p>
+    <br/>
+    <p>Streamer for Super Smash Brothers not listed? Submit the gamer's streaming information to: <a href="mailto:info@utahesports.net">info@utahesports.net</a></p>
   
 </div>
     </div>
