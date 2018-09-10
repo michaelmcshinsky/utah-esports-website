@@ -17,6 +17,7 @@ venue_state:
 venue_zipcode: 
 venue_url:
 tags: super-smash-brothers
+featured: true
 ---
 
 Join us for our the Utah Nintendo Community November event on Saturday, December 8tth from 1:30 to 4:30 pm MST. RSVP now to get notifications when more details are posted.

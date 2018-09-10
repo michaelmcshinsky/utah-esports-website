@@ -17,6 +17,7 @@ venue_state: "Utah"
 venue_zipcode: "84054"
 venue_url: "https://gametyrant.gg/"
 tags: super-smash-brothers
+featured: true
 ---
 
 The Salt Packet is bringing to the table what many of our Utahn players love-- Money Matches. That's right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone's Cloud after a terrible bracket run? Ever needed to prove to BestNess that YOU are the best Kirby and nobody else can beat it? Think you can bring the best Clairen Utah has ever seen? Well here's your chance to prove it. And maybe make a little money too.

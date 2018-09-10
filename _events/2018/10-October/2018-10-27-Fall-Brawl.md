@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Nokto Smash Weekly"
+title:  "Fall Brawl"
 permalink: /events/2018-10-27-Fall-Brawl
 event_url: "https://www.facebook.com/events/458490864613747/"
 event_image: "/assets/images/events/2018-10-27-Fall-Brawl"
