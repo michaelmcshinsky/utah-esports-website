@@ -17,6 +17,7 @@ venue_state: "Utah"
 venue_zipcode: "84663-2517"
 venue_url: "https://www.facebook.com/events/361261450972092/"
 tags: pokken
+featured: true
 ---
 
 We are starting a new tournament in Springville! This one will be ran by Riley Dibble, aka Dibz! It will be doing the standard $5 venue, $5 bracket by-in. Monitors and switch setups will be needed, and the first couple who do bring theirs will get their venue waived!
