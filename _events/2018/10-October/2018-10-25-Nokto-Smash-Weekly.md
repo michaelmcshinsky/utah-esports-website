@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Nokto Smash Weekly"
-permalink: /events/Nokto-Smash-Weekly
+permalink: /events/2018-10-25-Nokto-Smash-Weekly
 event_url: "https://www.facebook.com/events/1770336153064400/?event_time_id=1770336173064398"
 event_image: "/assets/images/events/Nokto-Smash-Weekly.jpg"
 excerpt: "Hi everyone! Come to the inaugural Nokto Smash Weekly."
