@@ -134,7 +134,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - pages
   - _events
 exclude:
   - "*.sublime-project"
@@ -272,7 +272,7 @@ defaults:
       type: events
     values:
       layout: event
-  # _pages
+  # pages
   - scope:
       path: ""
       type: pages
