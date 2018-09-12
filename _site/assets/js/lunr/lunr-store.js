@@ -150,7 +150,7 @@ var store = [{
         "url": "http://localhost:4000/events/2018-09-01-September-Smash-Jam",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Rocket League Tournament and Tryouts",
-        "excerpt":"Wow! Savage! Calculated. You might be able to air dribble past your opponents, but can you dribble on the ground and flick at the perfect time? Sure, you can pinch it of the wall any time you want, but can you defend against a nasty ceiling shot? Get ready to...","categories": [],
+        "excerpt":"UPDATE: So it turns out that the lab will be closed on Tuesday, so we will be rescheduling the tournament to Friday the 7th at 5:00 p.m. However, CRL (Collegiate Rocket League) registration ends on the 5th, so we will be holding Varsity tryouts online on Tuesday the 4th at...","categories": [],
         "tags": ["rocket-league"],
         "url": "http://localhost:4000/events/2018-09-04-Rocket-League-Tournament-and-Tryouts",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
@@ -208,6 +208,11 @@ var store = [{
         "excerpt":"Join us at our Friday Pokken event starting at 8 PM. Click on the Event Link button for more questions, updates and social chatter. Watch the stream at: https://twitch.tv/saltygamingshow ","categories": [],
         "tags": ["pokken"],
         "url": "http://localhost:4000/events/2018-09-07-Salty-Pokken",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Salt Lake City Community Meetup",
+        "excerpt":"Join us this month for Friends, Games, and Food!3pm Saturday Sept. 22Games and Food at Dave &amp; Buster’sVR Demos at Virtualities Meetups are Sponsored byQuarters Arcade Bar Player.me Twitch XSplit Salt Lake Gaming Con Microsoft Mainframe USA Armada Viceroy Kicks Gamer Planet ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-90-22-Salt-Lake-City-Community-Meetup",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "The Salt Packet",
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
