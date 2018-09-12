@@ -8,7 +8,7 @@ excerpt: "Come join CLAW Gaming on Tuesday, September 4th for an epic 1v1 tourna
 featured: true
 start_date: 2018-09-04
 start_time: 05:00:00 PM
-end_date: 2018-09-04
+end_date: 2018-09-07
 end_time: 
 venue_title: ""
 venue_address_1: "1321 E 4600 S"
@@ -19,6 +19,12 @@ venue_zipcode: "84402-3298"
 venue_url: "https://www.facebook.com/events/257978311491664/?notif_t=plan_user_invited&notif_id=1535382324019736"
 tags: rocket-league
 ---
+
+UPDATE:
+
+So it turns out that the lab will be closed on Tuesday, so we will be rescheduling the tournament to Friday the 7th at 5:00 p.m. However, CRL (Collegiate Rocket League) registration ends on the 5th, so we will be holding Varsity tryouts online on Tuesday the 4th at 9:00 p.m. There will still be JV tryouts after the tourney on the 7th, but if you would like to try to get on Varsity, please join our Weber State Discord where I will be coordinating it all and making further announcements. I apologize for the late notice.
+
+ORIGINAL:
 
 Wow! Savage! Calculated.
 
