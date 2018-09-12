@@ -169,6 +169,10 @@
 <lastmod>2018-09-21T00:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-90-22-Salt-Lake-City-Community-Meetup</loc>
+<lastmod>2018-09-22T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
 <lastmod>2018-09-22T00:00:00-06:00</lastmod>
 </url>
@@ -230,7 +234,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-09-30-GoFundMe-Retro-Arcade</loc>
-<lastmod>2019-09-29T00:00:00-06:00</lastmod>
+<lastmod>2019-09-30T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-03-August-Lan-Party</loc>
@@ -357,6 +361,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-09-07-Salty-Pokken</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-90-22-Salt-Lake-City-Community-Meetup</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
