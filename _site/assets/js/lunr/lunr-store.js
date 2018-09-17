@@ -227,7 +227,7 @@ var store = [{
         "title": "Salt Lake City Community Meetup",
         "excerpt":"Join us this month for Friends, Games, and Food!3pm Saturday Sept. 22Games and Food at Dave &amp; Buster’sVR Demos at Virtualities Meetups are Sponsored byQuarters Arcade Bar Player.me Twitch XSplit Salt Lake Gaming Con Microsoft Mainframe USA Armada Viceroy Kicks Gamer Planet ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/events/2018-90-22-Salt-Lake-City-Community-Meetup",
+        "url": "http://localhost:4000/events/2018-09-22-Salt-Lake-City-Community-Meetup",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "The Salt Packet",
         "excerpt":"The Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Rivals of Aether players and Super Smash Bros. for WiiU players will have hours upon hours of plenty of money matches. Ever been salty at someone’s Cloud after a terrible bracket...","categories": [],
