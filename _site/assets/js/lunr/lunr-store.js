@@ -204,10 +204,25 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-09-20-Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"The GG Circuit SOLO Tournament will be held on Friday the 21st. Matches will start at 10:00 pm, 11:00 pm and 12:00 AM. Players will compete for a prize pool of $200 per match ($150 1st place, $50 2nd place). The GG Circuit DUO Tournament will be held on Saturday...","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-09-21-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "SKS Smash Weekly",
+        "excerpt":"Info Compete one versus one with players across Utah in our gaming facility. The tournament will begin Friday, September 21, at 6:00 PM, and a free drink and snack voucher will be provided. Come ready to compete and have fun! Prizes Doubles are being played for fun. The $5 event...","categories": [],
+        "tags": ["Super-Smash-Bros"],
+        "url": "http://localhost:4000/events/2018-09-21-SKS-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Salty Pokkén",
         "excerpt":"Join us at our Friday Pokken event starting at 8 PM. Click on the Event Link button for more questions, updates and social chatter. Watch the stream at: https://twitch.tv/saltygamingshow ","categories": [],
         "tags": ["pokken"],
         "url": "http://localhost:4000/events/2018-09-07-Salty-Pokken",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite PC Duos Event",
+        "excerpt":"GameTyrant is hosting ggCircuit first Fortnite private server event for ggLeap hosted Gaming Centers. We have reserved 25 Duo’s slots in North America region on the server for you to compete for the cash. This is hosted at GameTyrant Gaming Center, 650 North Main, North Salt Lake, UT 84054 We are...","categories": [],
+        "tags": ["fortnite"],
+        "url": "http://localhost:4000/events/2018-09-22-Fortnite-PC-Dous-Event",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Salt Lake City Community Meetup",
         "excerpt":"Join us this month for Friends, Games, and Food!3pm Saturday Sept. 22Games and Food at Dave &amp; Buster’sVR Demos at Virtualities Meetups are Sponsored byQuarters Arcade Bar Player.me Twitch XSplit Salt Lake Gaming Con Microsoft Mainframe USA Armada Viceroy Kicks Gamer Planet ","categories": [],
@@ -229,30 +244,60 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-09-27-Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-09-28-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Game Tyrant FGC Monthly",
         "excerpt":"Please bring setups!! $5 DISCOUNT IF YOU BRING A FULL SETUP! Event Fees:$15 ($10 to Venue and $5 to Prize Pool Pot)$5 discount when you bring a setup TOs Alex Refresh Mykel Cain Jesus Cruz CalderonMessage TOs for more details Schedule: Tekken 712:00PM - 1:30PM - Casuals1:30PM - 4:00PM -...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-09-29-GameTyrant-FGC-Monthly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "GoFundMe - Retro Arcade",
+        "excerpt":"GoFundme event for a store Arcade https://www.gofundme.com/comicsplusarcade The year 1984, in the music world Van Halen was Jumping up the charts and Cyndi Lauper was having fun with her girls. On TV, vice officer Sonny Crockett changed fashion in Miami, and all the boys wanted to race cars and marry...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-09-30-GoFundMe-Retro-Arcade",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-04-Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-10-05-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-11-Nokto-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-10-12-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-18-Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-10-19-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-25-Nokto-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-10-26-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fall Brawl",
         "excerpt":"The FCZ is back for another weekend of bloodshed, bananas, salty tears, camaraderie, and really loud music in honor of our lord Thanos; come to Bozeman, Montana October 27th and 28th for FALL BRAWL 2018, Montana’s largest fighting game tournament! ….And yes, we convinced Blake to come back because we...","categories": [],
@@ -264,6 +309,11 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-11-02-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "GameTyrant Expo 2018",
         "excerpt":"GameTyrant Expo is BACK After the Legendary set of events that transpired last year in both Melee and Smash 4, GT-X returns November 2nd-4th at the Gateway Mall in Downtown Salt Lake City, Utah! Featuring: Smash Melee (Singles, Doubles) Smash Wii U (Singles, Doubles) Smash 64 (Singles, Doubles) Dragonball FighterZ...","categories": [],
         "tags": ["super-smash-brothers","dragonball-z","rivals-of-aether","street-fighter","tekken"],
@@ -274,23 +324,58 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-11-09-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-11-16-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-11-23-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-11-30-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-12-07-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "UNC Holiday Party",
         "excerpt":"Join us for our the Utah Nintendo Community November event on Saturday, December 8tth from 1:30 to 4:30 pm MST. RSVP now to get notifications when more details are posted. With Super Smash Bros. Ultimate releasing on Friday, December 7th, you can guarantee that we will be playing A LOT...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-12-08-UNC-Holidy-Party",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["Super-Smash-Bros"],
+        "url": "http://localhost:4000/events/2018-12-14-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-12-21-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "tags": ["fornite"],
+        "url": "http://localhost:4000/events/2018-12-28-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Salt Con",
         "excerpt":"Utah’s Largest Board Game Convention ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2019-02-28-Salt-Con",
-        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
-        "title": "GoFundMe - Retro Arcade",
-        "excerpt":"GoFundme event for a store Arcade https://www.gofundme.com/comicsplusarcade The year 1984, in the music world Van Halen was Jumping up the charts and Cyndi Lauper was having fun with her girls. On TV, vice officer Sonny Crockett changed fashion in Miami, and all the boys wanted to race cars and marry...","categories": [],
-        "tags": [],
-        "url": "http://localhost:4000/events/2018-09-30-GoFundMe-Retro-Arcade",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},]
