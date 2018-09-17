@@ -1,9 +1,9 @@
 ---
 layout: event
 title:  "Salt Lake City Community Meetup"
-permalink: /events/2018-90-22-Salt-Lake-City-Community-Meetup
+permalink: /events/2018-09-22-Salt-Lake-City-Community-Meetup
 event_url: "https://www.facebook.com/events/2216867361865110/"
-event_image: "/assets/images/events/2018-90-22-Salt-Lake-City-Community-Meetup.jpg"
+event_image: "/assets/images/events/2018-09-22-Salt-Lake-City-Community-Meetup.jpg"
 excerpt: ""
 start_date: 2018-09-22
 start_time: 03:00:00 PM
