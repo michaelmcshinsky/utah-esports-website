@@ -102,7 +102,7 @@ var store = [{
         "title": "Campus Rec Kickoff",
         "excerpt":"Come stop by our booth to learn more about the intramural league, tryouts for our competitive teams, and free goodies! Location: UVU - Plaza west of the SLWC Building ","categories": [],
         "tags": [],
-        "url": "http://localhost:4000/events/2018-09-18-Club-Rush",
+        "url": "http://localhost:4000/events/2018-08-29-Club-Rush",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
