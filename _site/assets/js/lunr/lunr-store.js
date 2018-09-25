@@ -249,6 +249,11 @@ var store = [{
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-09-28-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "SKS Games Smash Weekly",
+        "excerpt":"Sign up here: https://smash.gg/tournament/sks-games-smash-weekly-9-28-18 InfoCompete one versus one with players across Utah in our gaming facility. The tournament will begin Friday, September 28, at 6:00 PM. PrizesDoubles are being played for fun. The $5 event fee will go to the pot, but there will not be a pot bonus for...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-09-28-SKS-Games-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Game Tyrant FGC Monthly",
         "excerpt":"Please bring setups!! $5 DISCOUNT IF YOU BRING A FULL SETUP! Event Fees:$15 ($10 to Venue and $5 to Prize Pool Pot)$5 discount when you bring a setup TOs Alex Refresh Mykel Cain Jesus Cruz CalderonMessage TOs for more details Schedule: Tekken 712:00PM - 1:30PM - Casuals1:30PM - 4:00PM -...","categories": [],
         "tags": ["super-smash-brothers"],
@@ -259,6 +264,16 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2018-09-30-GoFundMe-Retro-Arcade",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "SKS Games Smash Weekly",
+        "excerpt":"Sign up Here: https://smash.gg/tournament/sks-games-smash-weekly-10-2-18 InfoCompete one versus one with players across Utah in our gaming facility. The tournament will begin Tuesday, October 2, at 6:30 PM. PrizesThe winners for Smash 4 and Melee will receive 60% of the Prize Pool. 2nd place will receive 30% of the Prize Pool, and...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-10-02-SKS-Games-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Nokto Smash Weekly",
+        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-10-04-Nokto-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
@@ -268,6 +283,16 @@ var store = [{
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-10-05-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "SKS Games Smash Weekly",
+        "excerpt":"Sign Up Here: https://smash.gg/tournament/sks-games-smash-weekly-10-5-18 InfoCompete one versus one with players across Utah in our gaming facility. The tournament will begin Friday, October 8, at 6:00 PM. PrizesDoubles are being played for fun. The $5 event fee will go to the pot, but there will not be a pot bonus for...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-10-05-SKS-Games-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Salt Lake Skirmish",
+        "excerpt":"11 AM - 1 PM: Casuals 12 - 1 PM: Sign ins 1 PM -4 PM: SF, DBF, BBTAG 4 PM - 11 PM: GG, UNI, T7 5 PM - Side Games Back at it again with another monthly! Please look forward to it! ALL tournament sets are 2 out...","categories": [],
+        "tags": ["tekken","street-fighter","dbfz","sfv","ggxrdrev2"],
+        "url": "http://localhost:4000/events/2018-10-06-Salt-Lake-Skirmish",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
