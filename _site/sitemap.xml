@@ -189,10 +189,6 @@
 <lastmod>2018-09-22T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/events/Dibzs-Monday-Weekly</loc>
-<lastmod>2018-09-25T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/events/2018-09-27-Nokto-Smash-Weekly</loc>
 <lastmod>2018-09-27T00:00:00-06:00</lastmod>
 </url>
@@ -464,9 +460,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-08-25-The-Salt-Packet</loc>
-</url>
-<url>
-<loc>http://localhost:4000/events/Dibzs-Monday-Weekly</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-09-27-Nokto-Smash-Weekly</loc>

@@ -234,11 +234,6 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-08-25-The-Salt-Packet",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
-        "title": "Dibz's Monday Weekly",
-        "excerpt":"We are starting a new tournament in Springville! This one will be ran by Riley Dibble, aka Dibz! It will be doing the standard $5 venue, $5 bracket by-in. Monitors and switch setups will be needed, and the first couple who do bring theirs will get their venue waived! ","categories": [],
-        "tags": ["pokken"],
-        "url": "http://localhost:4000/events/Dibzs-Monday-Weekly",
-        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
