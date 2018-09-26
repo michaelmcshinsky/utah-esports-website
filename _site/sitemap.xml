@@ -210,6 +210,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-10-02-SKS-Games-Smash-Weekly</loc>
+<lastmod>2018-10-01T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-10-01-No-Pause-Weekly</loc>
 <lastmod>2018-10-02T00:00:00-06:00</lastmod>
 </url>
 <url>
@@ -217,7 +221,7 @@
 <lastmod>2018-10-04T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/events/2018-10-04-Nokto-Smash-Weekly</loc>
+<loc>http://localhost:4000/events/2018-10-05-BYU-Esports-Overnight-LAN</loc>
 <lastmod>2018-10-05T00:00:00-06:00</lastmod>
 </url>
 <url>
@@ -480,10 +484,13 @@
 <loc>http://localhost:4000/events/2018-10-02-SKS-Games-Smash-Weekly</loc>
 </url>
 <url>
-<loc>http://localhost:4000/events/2018-10-04-Nokto-Smash-Weekly</loc>
+<loc>http://localhost:4000/events/2018-10-01-No-Pause-Weekly</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-10-04-Nokto-Smash-Weekly</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-10-05-BYU-Esports-Overnight-LAN</loc>
 </url>
 <url>
 <loc>http://localhost:4000/events/2018-10-05-Fortnite-Friday</loc>

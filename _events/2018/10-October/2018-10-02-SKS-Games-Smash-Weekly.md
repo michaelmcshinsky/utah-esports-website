@@ -1,31 +1,47 @@
 ---
 layout: event
-title:  "SKS Games Smash Weekly"
-permalink: /events/2018-10-02-SKS-Games-Smash-Weekly
-event_url: "https://www.facebook.com/events/301207697376944/"
-event_image: "/assets/images/events/SKS-Games-Weekly.jpg"
-excerpt: ""
-start_date: 2018-10-02
-start_time: 06:30:00 PM
-end_date: 2018-10-02
-end_time: 09:30:00 PM
+title:  "No Pause Weekly"
+permalink: /events/2018-10-01-No-Pause-Weekly
+event_url: "https://smash.gg/tournament/no-pause-weekly-10-1-18/details"
+event_image: "/assets/images/events/2018-10-01-No-Pause-Weekly.jpg"
+excerpt: 
+start_date: 2018-10-01
+start_time: 
+end_date: 2018-10-01
+end_time: 
 venue_title: 
-venue_address_1: "21 G St."
-venue_address_2:
-venue_city: "Salt Lake City"
+venue_address_1: "1700 N State St."
+venue_address_2: "#16"
+venue_city: "Provo"
 venue_state: "Utah"
-venue_zipcode: "84103-2949"
-venue_url: "https://www.facebook.com/events/301207697376944/"
-tags: super-smash-brothers
+venue_zipcode: "84604"
+venue_url: "https://smash.gg/tournament/no-pause-weekly-10-1-18/details"
+tags: pokken aether super-smash-brothers
 ---
 
-Sign up Here: https://smash.gg/tournament/sks-games-smash-weekly-10-2-18
+The first weekly held at No Pause Gaming in Provo, hosting brackets for Smash 4, Pokkén Tournament DX, and Rivals of Aether.
 
-Info
-Compete one versus one with players across Utah in our gaming facility. The tournament will begin Tuesday, October 2, at 6:30 PM.
+\--Venue--
 
-Prizes
-The winners for Smash 4 and Melee will receive 60% of the Prize Pool. 2nd place will receive 30% of the Prize Pool, and 3rd will receive 10% of the Prize Pool. Additionally, the Entrance Fee ($5) will go to the Prize Pool. There will NOT be a $50 dollar pot bonus during weekday events. 
+    -Competitor Venue Cost: $5
+    
+    -Venue fee is waived for the first players who bring 2 full setups for Smash 4 and Pokkén Tournament DX (monitors provided by venue)
+    
+    -Smash 4 setup requirements: Wii U, power cables, HDMI cable, Gamecube Controller adapter, Smash 4 Game Disk/Downloaded, all playable characters unlocked, all DLC fighters downloaded, all stages unlocked, and Dreamland 64 downloaded.
+    
+    -Pokkén Tournament DX setup requirements: Nintendo Switch, Switch Dock, power cable, HDMI cable, Ethernet to USB adapter, crossover ethernet cable, Pokkén Tournament DX cartridge/downloaded copy, DLC fighters downloaded. (Two of these are required per full setup)
+    
+    -Rivals of Aether will be pre-installed on the venue's computers, though if players need an adapter for their controller it is recommended they bring their own as a precaution.
 
-Fees
-The Venue fee is $5. If you bring your own setup for WiiU or GameCube (console, monitor, controller, game cube adapters for WiiU/PC and game with all characters, DLC(Dreamland Stage and all characters), and stages unlocked, we will refund you $5, making the grand total for entrance $5 assuming you enter just one game. If you enter two games and bring a setup, your grand total will be $10.
+\--Entry Fee--
+
+    All entry fees are used to fill that respective game's prize pot.
+    -Super Smash Bros for Wii U: $5
+    -Pokkén Tournament DX: $5
+    -Rivals of Aether: $5
+
+\--Important note!--
+
+As soon as the tournament ends, venue rules apply to setups, and ALL players who wish to continue playing must pay the appropriate fees to the venue, found [**here on the No Pause Gaming website**](http://nopausegaming.com/#pricing).
+
+At the bottom of the hill separating Orem and Provo on State Street, look for the Quick Quack car wash. Enter its parking lot, and No Pause will be in the far North-East corner. Do NOT take 1720 North at the Quick Quack, as there is no entrance to the parking lot along that road.
