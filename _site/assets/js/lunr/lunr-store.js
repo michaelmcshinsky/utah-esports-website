@@ -264,15 +264,20 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-02-SKS-Games-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
-        "title": "Nokto Smash Weekly",
-        "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
-        "tags": ["super-smash-brothers"],
-        "url": "http://localhost:4000/events/2018-10-04-Nokto-Smash-Weekly",
+        "title": "No Pause Weekly",
+        "excerpt":"The first weekly held at No Pause Gaming in Provo, hosting brackets for Smash 4, Pokkén Tournament DX, and Rivals of Aether. --Venue– -Competitor Venue Cost: $5-Venue fee is waived for the first players who bring 2 full setups for Smash 4 and Pokkén Tournament DX (monitors provided by venue)-Smash...","categories": [],
+        "tags": ["pokken","aether","super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-10-01-No-Pause-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-04-Nokto-Smash-Weekly",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "BYU Esports Overnight LAN",
+        "excerpt":"Come join us for an overnight LAN event at No Pause!! Jared and I have been looking into getting an opening LAN for some time, and Hayden at No Pause reached out to us! They are very generous in letting us use their facility, so let’s not let it go...","categories": [],
+        "tags": ["super-smash-brothers","overwatch","heroes-of-the-storm","hearthstone","league-of-legends","fortnite"],
+        "url": "http://localhost:4000/events/2018-10-05-BYU-Esports-Overnight-LAN",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
