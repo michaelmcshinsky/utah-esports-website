@@ -274,6 +274,11 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-04-Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Assassin's Creed Odyssey Launch Party",
+        "excerpt":"Join us for Crimson Gaming’s second Bi-weekly meeting of the year! Come take part in the Assassins Creed Odyssey Launch Party! Free Pizza will be provided and compete for your chance to win assassins creed themed goodies! We’ll be playing Board Games, Couch Coop Games, and stations will be open...","categories": [],
+        "tags": ["assassins-creed"],
+        "url": "http://localhost:4000/events/2018-10-05-Assassins-Creed-Odyssey-Launch-Party",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "BYU Esports Overnight LAN",
         "excerpt":"Come join us for an overnight LAN event at No Pause!! Jared and I have been looking into getting an opening LAN for some time, and Hayden at No Pause reached out to us! They are very generous in letting us use their facility, so let’s not let it go...","categories": [],
         "tags": ["super-smash-brothers","overwatch","heroes-of-the-storm","hearthstone","league-of-legends","fortnite"],
@@ -289,6 +294,16 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-05-SKS-Games-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "October Smash Jam",
+        "excerpt":"Join us for our monthly fighting game tournament series - Smash Jam - featuring Super Smash Bros. Wii U, Rivals of Aether, PM, and Pokkén Tournament Smash.gg page: https://smash.gg/tournament/october-2018-smash-jam/details The following is the schedule for the event. Times listed are times when registration ends, with the tournament starting 30 minutes...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-10-06-October-Smash-Jam",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rainbow Six Seige Tournament",
+        "excerpt":"Join Crimson Gaming and kick off your Fall Break with our Rainbow Six Siege Tournament! Gather your team and compete Saturday, October 6th! There will be lunch provided with entry fee and prizes for the winners. Preregister your team here to save $2 per player! https://docs.google.com/forms/d/e/1FAIpQLSd0UI9TeT9za53y5SiLu3EMDqqQXhDMdu86LN2KR0Yf9CLOYw/viewform?usp=sf_link When: October 6th, 2018Time:...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-10-06-Rainbow-Six-Siege-Tournament",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Salt Lake Skirmish",
         "excerpt":"11 AM - 1 PM: Casuals 12 - 1 PM: Sign ins 1 PM -4 PM: SF, DBF, BBTAG 4 PM - 11 PM: GG, UNI, T7 5 PM - Side Games Back at it again with another monthly! Please look forward to it! ALL tournament sets are 2 out...","categories": [],
         "tags": ["tekken","street-fighter","dbfz","sfv","ggxrdrev2"],
@@ -303,6 +318,21 @@ var store = [{
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-10-12-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Halloween LAN Night",
+        "excerpt":"TONIGHT’S GAME : Dead By Daylight+SPECIAL GAMER GRILLS NIGHT!Females get free admission This will be our first Halloween-themed event!Bring some spooky food and make some new ghoulie friends. Be sure to reserve a spot soon! There is limited space. Facts: Location : Game Tyrant / 640 N Main St, North...","categories": [],
+        "tags": ["lan"],
+        "url": "http://localhost:4000/events/2018-10-12-Halloween-LAN-Night",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "October Smash Jam",
+        "excerpt":"Join us for our monthly fighting game tournament series - Smash Jam - featuring Super Smash Bros. Wii U, Rivals of Aether, PM, and Pokkén Tournament Smash.gg page: https://smash.gg/tournament/october-2018-smash-jam/details The following is the schedule for the event. Times listed are times when registration ends, with the tournament starting 30 minutes...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-10-06-October-Smash-Jam",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "GameTyrant Counter-Strike: Global Offensive Tournament",
+        "excerpt":"DESCRIPTIONEvent Fees-Online pre-registration - $30 per player ($150 team) -Door registration - $35 per player ($175 team) Schedule-11:00AM - Venue Opens/Registration Opens -12:00PM - Tournament Begins Format-BYOC (Bring Your Own Computer) LAN Tournament -$20 of the $30 goes to prize pool -Additional $10 if you want to use our computers....","categories": [],
+        "tags": ["counter-strike"],
+        "url": "http://localhost:4000/events/2018-10-13-GameTyrant-Counter-Strike-Global-Offensive-Tournament",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
@@ -323,6 +353,11 @@ var store = [{
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-10-26-Fortnite-Friday",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Spooky Smash $100 Pot Bonus",
+        "excerpt":"WE WILL BE HOSTING A COSTUME CONTEST FOR ALL OF THOSE THAT ENTER THE TOURNAMENT. WHOEVER HAS BEST COSTUMES WILL WIN A GAMING CHAIR: https://www.amazon.com/gp/product/B01N1YL4DL/ref=oh_aui_detailpage_o00_s00?ie=UTF8&amp;psc=1 $100 POT BONUS FOR BOTH MELEE AND SMASH 4 SINGLES. InfoCompete one v one with players across Utah in our gaming facility. The tournament will...","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "http://localhost:4000/events/2018-10-26-Spooky-Smash",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fall Brawl",
         "excerpt":"The FCZ is back for another weekend of bloodshed, bananas, salty tears, camaraderie, and really loud music in honor of our lord Thanos; come to Bozeman, Montana October 27th and 28th for FALL BRAWL 2018, Montana’s largest fighting game tournament! ….And yes, we convinced Blake to come back because we...","categories": [],
