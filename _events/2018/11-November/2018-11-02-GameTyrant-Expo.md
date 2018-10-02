@@ -14,10 +14,9 @@ venue_address_1: "400 W 100 S"
 venue_address_2:
 venue_city: "Salt Lake City"
 venue_state: "Utah"
-venue_zipcode: "84101"
+venue_zipcode: "84010"
 venue_url: "http://shopthegateway.com/"
 tags: super-smash-brothers dragonball-z rivals-of-aether street-fighter tekken
-featured: true
 ---
 
 # GameTyrant Expo is BACK

@@ -8,10 +8,10 @@ excerpt: ""
 start_date: 2018-12-28
 start_time: 07:00:00 PM
 end_date: 2018-12-29
-end_time: 12:00:00 PM
+end_time: 12:00:00 AM
 venue_title: "No Pause Gaming"
 venue_address_1: "1700 N State Street"
-venue_address_2:
+venue_address_2: "Ste 16"
 venue_city: "Provo"
 venue_state: "Utah"
 venue_zipcode: "84604"
@@ -20,5 +20,7 @@ tags: fornite
 ---
 
 Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! 
+
+In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as possible in three matches. To win, your duo must have more combined kills than the other duo in your same squad. Kills are cumulative over the three matches. 
 
 Sign up online or in store.
