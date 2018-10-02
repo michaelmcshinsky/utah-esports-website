@@ -17,6 +17,7 @@ venue_state: "Utah"
 venue_zipcode: "84103-2949"
 venue_url: "https://www.facebook.com/events/333906860690240/"
 tags: super-smash-brothers
+featured: true
 ---
 
 WE WILL BE HOSTING A COSTUME CONTEST FOR ALL OF THOSE THAT ENTER THE TOURNAMENT. WHOEVER HAS BEST COSTUMES WILL WIN A GAMING CHAIR: https://www.amazon.com/gp/product/B01N1YL4DL/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1

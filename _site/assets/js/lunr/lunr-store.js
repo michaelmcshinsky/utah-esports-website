@@ -324,10 +324,15 @@ var store = [{
         "tags": ["lan"],
         "url": "http://localhost:4000/events/2018-10-12-Halloween-LAN-Night",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
-        "title": "October Smash Jam",
-        "excerpt":"Join us for our monthly fighting game tournament series - Smash Jam - featuring Super Smash Bros. Wii U, Rivals of Aether, PM, and Pokkén Tournament Smash.gg page: https://smash.gg/tournament/october-2018-smash-jam/details The following is the schedule for the event. Times listed are times when registration ends, with the tournament starting 30 minutes...","categories": [],
-        "tags": ["super-smash-brothers"],
-        "url": "http://localhost:4000/events/2018-10-06-October-Smash-Jam",
+        "title": "BFA USU & USU vs UNLV Showmatch",
+        "excerpt":"Our next big themed event will be Battle for Azeroth. We will be playing multiple different games as we split you all up into teams. You will either be marked down as horde or alliance in our first big clash at the university. The games will be as follows: 6v6...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-10-13-BFA-USU-UNLV",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Forza Horizon 4 Tournament",
+        "excerpt":"Stop by anytime between 6pm and 8pm and play some Forza Horizon 4. Best lap time WINS! ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-10-13-Forza-Horizon-4-Tournament",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "GameTyrant Counter-Strike: Global Offensive Tournament",
         "excerpt":"DESCRIPTIONEvent Fees-Online pre-registration - $30 per player ($150 team) -Door registration - $35 per player ($175 team) Schedule-11:00AM - Venue Opens/Registration Opens -12:00PM - Tournament Begins Format-BYOC (Bring Your Own Computer) LAN Tournament -$20 of the $30 goes to prize pool -Additional $10 if you want to use our computers....","categories": [],
