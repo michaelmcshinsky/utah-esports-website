@@ -274,6 +274,11 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-04-Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rocket League Weekly Rec League",
+        "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
+        "tags": ["rocket-league"],
+        "url": "http://localhost:4000/events/2018-10-04-Rocket-League-Weekly-Rec-League",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Assassin's Creed Odyssey Launch Party",
         "excerpt":"Join us for Crimson Gaming’s second Bi-weekly meeting of the year! Come take part in the Assassins Creed Odyssey Launch Party! Free Pizza will be provided and compete for your chance to win assassins creed themed goodies! We’ll be playing Board Games, Couch Coop Games, and stations will be open...","categories": [],
         "tags": ["assassins-creed"],
@@ -314,8 +319,13 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-11-Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rocket League Weekly Rec League",
+        "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
+        "tags": ["rocket-league"],
+        "url": "http://localhost:4000/events/2018-10-11-Rocket-League-Weekly-Rec-League",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-10-12-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
@@ -344,8 +354,13 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-18-Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rocket League Weekly Rec League",
+        "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
+        "tags": ["rocket-league"],
+        "url": "http://localhost:4000/events/2018-10-18-Rocket-League-Weekly-Rec-League",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-10-19-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
@@ -354,8 +369,13 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/2018-10-25-Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rocket League Weekly Rec League",
+        "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
+        "tags": ["rocket-league"],
+        "url": "http://localhost:4000/events/2018-10-25-Rocket-League-Weekly-Rec-League",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-10-26-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
@@ -374,8 +394,18 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rocket League Weekly Rec League",
+        "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
+        "tags": ["rocket-league"],
+        "url": "http://localhost:4000/events/2018-11-01-Rocket-League-Weekly-Rec-League",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Extra Life Fundraiser",
+        "excerpt":"We are hosting a collaborative event involving local teams, streamers, businesses, and gamers in Salt Lake City and the surrounding area as we raise money for Primary Children’s Hospital in Downtown SLC. ","categories": [],
+        "tags": ["Halo","Fortnite","Mario-Kart","Rocket-League"],
+        "url": "http://localhost:4000/events/2018-11-02-Extra-Life-Fundraiser",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-11-02-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
@@ -384,13 +414,23 @@ var store = [{
         "tags": ["super-smash-brothers","dragonball-z","rivals-of-aether","street-fighter","tekken"],
         "url": "http://localhost:4000/events/2018-11-02-GameTyrant-Expo",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Western Digital's Fortnite Tournament @ GT-X",
+        "excerpt":"• Competition Fortnite singles• Entry fee: $25 (Friday only)• Prize Pool: $5,500• $500 amateur bracket and $5,000 pro bracket• Top 4 from amateur bracket will be invited to pro bracket to compete against the best and most influential competitors! • Amateur bracket starts on Friday, Pro bracket starts on Saturday•...","categories": [],
+        "tags": ["fortnite"],
+        "url": "http://localhost:4000/events/2018-11-02-Western-Digital-Fortnite-Tournament",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rocket League Weekly Rec League",
+        "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
+        "tags": ["rocket-league"],
+        "url": "http://localhost:4000/events/2018-11-08-Rocket-League-Weekly-Rec-League",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-11-09-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
@@ -399,23 +439,38 @@ var store = [{
         "tags": ["super-smash-brothers"],
         "url": "http://localhost:4000/events/Nokto-Smash-Weekly",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rocket League Weekly Rec League",
+        "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
+        "tags": ["rocket-league"],
+        "url": "http://localhost:4000/events/2018-11-15-Rocket-League-Weekly-Rec-League",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-11-16-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rocket League Weekly Rec League",
+        "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
+        "tags": ["rocket-league"],
+        "url": "http://localhost:4000/events/2018-11-22-Rocket-League-Weekly-Rec-League",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-11-23-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Rocket League Weekly Rec League",
+        "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
+        "tags": ["rocket-league"],
+        "url": "http://localhost:4000/events/2018-11-29-Rocket-League-Weekly-Rec-League",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-11-30-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-12-07-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
@@ -425,17 +480,17 @@ var store = [{
         "url": "http://localhost:4000/events/2018-12-08-UNC-Holidy-Party",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["Super-Smash-Bros"],
         "url": "http://localhost:4000/events/2018-12-14-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-12-21-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
-        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! Sign up online or in store. ","categories": [],
+        "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "http://localhost:4000/events/2018-12-28-Fortnite-Friday",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
