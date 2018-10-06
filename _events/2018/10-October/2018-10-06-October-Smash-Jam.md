@@ -1,24 +1,24 @@
 ---
 layout: event
-title:  "October Smash Jam"
-permalink: /events/2018-10-06-October-Smash-Jam
-event_url: "https://www.facebook.com/events/301207697376944/"
+title: October Smash Jam
+permalink: "/events/2018-10-06-October-Smash-Jam"
+event_url: https://www.facebook.com/events/260672474480972/?ti=as
 event_image: "/assets/images/events/2018-09-01-September-Smash-Jam.jpg"
-excerpt: ""
-start_date: 2018-10-06
+excerpt: ''
+start_date: 2018-10-06 00:00:00 +0000
 start_time: 10:00:00 AM
-end_date: 2018-10-06
+end_date: 2018-10-06 00:00:00 +0000
 end_time: 11:00:00 PM
-venue_title: "Heritage Center"
-venue_address_1: "151 Connor Rd."
-venue_address_2:
-venue_city: "Salt Lake City"
-venue_state: "Utah"
-venue_zipcode: "84112"
-venue_url: "https://www.facebook.com/events/301207697376944/"
+venue_title: ''
+venue_address_1: 332 1400 E
+venue_address_2: 
+venue_city: Salt Lake City
+venue_state: Utah
+venue_zipcode: 84112
+venue_url: https://www.facebook.com/events/260672474480972/?ti=as
 tags: super-smash-brothers
----
 
+---
 Join us for our monthly fighting game tournament series - Smash Jam - featuring Super Smash Bros. Wii U, Rivals of Aether, PM, and Pokkén Tournament
 
 Smash.gg page: https://smash.gg/tournament/october-2018-smash-jam/details
