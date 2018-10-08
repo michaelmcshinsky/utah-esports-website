@@ -3,7 +3,7 @@ layout: event
 title:  "No Pause Weekly"
 permalink: /events/2018-10-08-no-pause-weekly
 event_url: "https://smash.gg/tournament/no-pause-weekly-10-8-18"
-event_image: "/assets/images/events/no-pause-weekly.png"
+event_image: "/assets/images/events/no-pause-weekly.jpg"
 excerpt: ""
 start_date: 2018-10-08
 start_time:
