@@ -334,8 +334,8 @@ var store = [{
         "tags": ["lan"],
         "url": "http://localhost:4000/events/2018-10-12-Halloween-LAN-Night",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
-        "title": "BFA USU & USU vs UNLV Showmatch",
-        "excerpt":"Our next big themed event will be Battle for Azeroth. We will be playing multiple different games as we split you all up into teams. You will either be marked down as horde or alliance in our first big clash at the university. The games will be as follows: 6v6...","categories": [],
+        "title": "USU vs UNLV League of Legends Showmatch and Game Day",
+        "excerpt":"BFA has been changed due to us hosting our big showmatch after the homecoming football game. USU Esports will be facing UNLV’s 8-Bit Gaming in a league of legends showmatch in the TSC Auditorium after the homecoming football game against UNLV. This will be our first showmatch of many as...","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2018-10-13-BFA-USU-UNLV",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
