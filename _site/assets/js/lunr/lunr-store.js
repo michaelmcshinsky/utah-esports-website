@@ -354,6 +354,11 @@ var store = [{
         "tags": ["counter-strike"],
         "url": "https://utahesports.net/events/2018-10-13-GameTyrant-Counter-Strike-Global-Offensive-Tournament",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "1v1 Me Yo!",
+        "excerpt":"Come and join our RIOT sponsored 1v1 tournament!!Prizes will include MYSTERY Skins, Champs, and Icons as well as RP!!! Sign-ups are in the commons from 12 - 1pm or 1 hour before the start of the event. Entry fee is $3. Any questions feel free to DM me on FB...","categories": [],
+        "tags": ["league-of-legends"],
+        "url": "https://utahesports.net/events/2018-10-14-1v1-Me-Yo",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
@@ -423,6 +428,11 @@ var store = [{
         "excerpt":"• Competition Fortnite singles• Entry fee: $25 (Friday only)• Prize Pool: $5,500• $500 amateur bracket and $5,000 pro bracket• Top 4 from amateur bracket will be invited to pro bracket to compete against the best and most influential competitors! • Amateur bracket starts on Friday, Pro bracket starts on Saturday•...","categories": [],
         "tags": ["fortnite"],
         "url": "https://utahesports.net/events/2018-11-02-Western-Digital-Fortnite-Tournament",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "Worlds Viewing Party",
+        "excerpt":"Come and experience Worlds 2018 with your peers and club officers!! This is a potluck event and would appreciate everyone joining to pitch in, but we will have PIZZA! (first come first serve) ","categories": [],
+        "tags": ["league-of-legends"],
+        "url": "https://utahesports.net/events/2018-11-03-Worlds-Viewing-Party",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
