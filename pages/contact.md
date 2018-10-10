@@ -11,8 +11,7 @@ permalink: /contact
     <div class="heading" style="margin-top: 1em;">
       <h1>Contact Us</h1>
     </div>
-    <form action="https://formspree.io/michael@mcshinsky.net"
-          method="POST">
+    <form netlify name="contact" method="POST">
         <label>Name</label>
         <input type="text" name="name" required>
         <label>Email</label>
