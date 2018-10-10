@@ -374,6 +374,11 @@ var store = [{
         "tags": ["fornite"],
         "url": "https://utahesports.net/events/2018-10-19-Fortnite-Friday",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "Spooktober Virtual Reality/LAN Event",
+        "excerpt":"Get ready for the first ever UVU Esports VR event. Thanks to our sponsors at No Pause Gaming and Virtual Experience, as well as a few of our members, we are putting on the spookiest VR event in Utah. We’ll be running some tournaments for a few different games on...","categories": [],
+        "tags": ["LAN"],
+        "url": "https://utahesports.net/events/2018-10-19-Spooktober-Virtual-Reality-LAN-Event",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
