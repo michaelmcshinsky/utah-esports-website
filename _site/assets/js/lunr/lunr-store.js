@@ -329,6 +329,11 @@ var store = [{
         "tags": ["rocket-league"],
         "url": "https://utahesports.net/events/2018-10-11-Rocket-League-Weekly-Rec-League",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ESPORTS ALL NIGHT - UVU Student Super Smash Tourney ",
+        "excerpt":"Join UVU ESPORTS and UVU Basketball for a night of video games, prizes and fun. From 9 pm - 1 am, register to be a part of a Super Smash open play tournament for your chance to play in the live tourney on the big stage with prizes, shout casters,...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-10-12-Esports-All-Night",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
