@@ -354,6 +354,11 @@ var store = [{
         "tags": ["counter-strike"],
         "url": "https://utahesports.net/events/2018-10-13-GameTyrant-Counter-Strike-Global-Offensive-Tournament",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "Low Tier Melee",
+        "excerpt":"Big news! If enough people come at 6:30 we will do Low tier bracket! So come! At 6:30! Merril hall from 5 - midnight Tourney starts at sevendon’t be too loud though we don’t want to get kicked pls bring setups I don’t want to die. ","categories": [],
+        "tags": ["super-smash-brothers"],
+        "url": "https://utahesports.net/events/2018-10-13-Low-Tier-Melee",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "1v1 Me Yo!",
         "excerpt":"Come and join our RIOT sponsored 1v1 tournament!!Prizes will include MYSTERY Skins, Champs, and Icons as well as RP!!! Sign-ups are in the commons from 12 - 1pm or 1 hour before the start of the event. Entry fee is $3. Any questions feel free to DM me on FB...","categories": [],
         "tags": ["league-of-legends"],
@@ -415,7 +420,7 @@ var store = [{
         "url": "https://utahesports.net/events/2018-11-01-Rocket-League-Weekly-Rec-League",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Extra Life Fundraiser",
-        "excerpt":"We are hosting a collaborative event involving local teams, streamers, businesses, and gamers in Salt Lake City and the surrounding area as we raise money for Primary Children’s Hospital in Downtown SLC. ","categories": [],
+        "excerpt":"We are hosting a collaborative event involving local teams, streamers, businesses, and gamers in Salt Lake City and the surrounding area as we raise money for Primary Children’s Hospital in Downtown SLC. Your donation is tax-deductible and will make miracles happen for families who desperately need them. Thank you so...","categories": [],
         "tags": ["Halo","Fortnite","Mario-Kart","Rocket-League"],
         "url": "https://utahesports.net/events/2018-11-02-Extra-Life-Fundraiser",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
