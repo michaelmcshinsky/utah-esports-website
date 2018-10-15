@@ -6,7 +6,7 @@ event_url: "https://smash.gg/tournament/no-pause-weekly-10-15-18/details"
 event_image: "/assets/images/events/no-pause-weekly.jpg"
 excerpt: ""
 start_date: 2018-10-15
-start_time:
+start_time: 07:00:00 PM
 end_date: 2018-10-15
 end_time: 
 venue_title: "No Pause Gaming"
