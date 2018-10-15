@@ -369,6 +369,11 @@ var store = [{
         "tags": ["league-of-legends"],
         "url": "https://utahesports.net/events/2018-10-14-1v1-Me-Yo",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "No Pause Weekly",
+        "excerpt":"A weekly tournament held at No Pause Gaming in Provo, hosting brackets for Smash 4, Pokkén Tournament DX, and Rivals of Aether. --Venue– -Competitor Venue Cost: $5-Venue fee is waived for the first players who bring 2 full setups for Smash 4 and Pokkén Tournament DX (monitors provided by venue)-Smash...","categories": [],
+        "tags": ["pokken","super-smash-brothers","aether"],
+        "url": "https://utahesports.net/events/2018-10-15-no-pause-weekly",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
@@ -388,6 +393,11 @@ var store = [{
         "excerpt":"Get ready for the first ever UVU Esports VR event. Thanks to our sponsors at No Pause Gaming and Virtual Experience, as well as a few of our members, we are putting on the spookiest VR event in Utah. We’ll be running some tournaments for a few different games on...","categories": [],
         "tags": ["LAN"],
         "url": "https://utahesports.net/events/2018-10-19-Spooktober-Virtual-Reality-LAN-Event",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "Utah iOS & Mac - Nintendo Switch Night",
+        "excerpt":"The Utah iOS &amp; Mac Group proudly presents.. Swith Night If you got a Nintendo Switch, bring it! Controllers and a dock are helpful too. USB ethernet is not required but highly recommended. If you don’t have a Nintendo Switch, come anyway! Bring a friend or your kids! Location: ExpertVoice...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-10-24-Nintendo-Switch-Night",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
@@ -528,9 +538,4 @@ var store = [{
         "excerpt":"Utah’s Largest Board Game Convention ","categories": [],
         "tags": [],
         "url": "https://utahesports.net/events/2019-02-28-Salt-Con",
-        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
-        "title": "No Pause Weekly",
-        "excerpt":"A weekly tournament held at No Pause Gaming in Provo, hosting brackets for Smash 4, Pokkén Tournament DX, and Rivals of Aether. --Venue– -Competitor Venue Cost: $5-Venue fee is waived for the first players who bring 2 full setups for Smash 4 and Pokkén Tournament DX (monitors provided by venue)-Smash...","categories": [],
-        "tags": ["pokken","super-smash-brothers","aether"],
-        "url": "https://utahesports.net/events/2018-10-15-no-pause-weekly",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},]
