@@ -384,6 +384,11 @@ var store = [{
         "tags": ["rocket-league"],
         "url": "https://utahesports.net/events/2018-10-18-Rocket-League-Weekly-Rec-League",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "University of Utah: Fall Brawl Bash",
+        "excerpt":"Come battle it out at the University of Utah EAE building for Friday night brawls. This tournament will feature Super Smash Brothers Melee, Super Smash Bros 4, Street Fighter V, Tekken 7 and, Soul Calibur VI. 1v1 tournament. Bring your own controller. Double Elimination. ","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-10-19-Fall-Brawl-Bash",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],

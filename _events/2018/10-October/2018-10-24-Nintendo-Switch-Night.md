@@ -3,7 +3,7 @@ layout: event
 title:  "Utah iOS & Mac - Nintendo Switch Night"
 permalink: /events/2018-10-24-Nintendo-Switch-Night
 event_url: "https://www.eventbrite.com/e/utah-ios-mac-nintendo-switch-night-tickets-51295559399"
-event_image: "/assets/images/events/2018-10-24-Nintendo-Switch-Night"
+event_image: "/assets/images/events/2018-10-24-Nintendo-Switch-Night.jpg"
 excerpt: ""
 start_date: 2018-10-24
 start_time: 06:00:00 PM
