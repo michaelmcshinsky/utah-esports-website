@@ -528,4 +528,9 @@ var store = [{
         "excerpt":"Utah’s Largest Board Game Convention ","categories": [],
         "tags": [],
         "url": "https://utahesports.net/events/2019-02-28-Salt-Con",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "No Pause Weekly",
+        "excerpt":"A weekly tournament held at No Pause Gaming in Provo, hosting brackets for Smash 4, Pokkén Tournament DX, and Rivals of Aether. --Venue– -Competitor Venue Cost: $5-Venue fee is waived for the first players who bring 2 full setups for Smash 4 and Pokkén Tournament DX (monitors provided by venue)-Smash...","categories": [],
+        "tags": ["pokken","super-smash-brothers","aether"],
+        "url": "https://utahesports.net/events/2018-10-15-no-pause-weekly",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},]
