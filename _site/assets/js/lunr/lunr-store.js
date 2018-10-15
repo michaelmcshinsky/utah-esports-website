@@ -269,6 +269,11 @@ var store = [{
         "tags": ["pokken","aether","super-smash-brothers"],
         "url": "https://utahesports.net/events/2018-10-01-No-Pause-Weekly",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "Salt Lake Skirmish",
+        "excerpt":"11 AM - 1 PM: Casuals12 - 1 PM: Sign ins1 PM -4 PM: SC6, DBFZ, SFV4 PM - 7 PM: T7, GG, BBTAG7 PM - END: UNIST, Side games, etc Hey folks, a few changes as we close out the year. We’ve added SC6 and moved games around into...","categories": [],
+        "tags": ["tekken","street-fighter","dbfz","sfv","ggxrdrev2"],
+        "url": "https://utahesports.net/events/2018-11-03-Salt-Lake-Skirmish",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
@@ -370,7 +375,7 @@ var store = [{
         "url": "https://utahesports.net/events/2018-10-14-1v1-Me-Yo",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "No Pause Weekly",
-        "excerpt":"A weekly tournament held at No Pause Gaming in Provo, hosting brackets for Smash 4, Pokkén Tournament DX, and Rivals of Aether. --Venue– -Competitor Venue Cost: $5-Venue fee is waived for the first players who bring 2 full setups for Smash 4 and Pokkén Tournament DX (monitors provided by venue)-Smash...","categories": [],
+        "excerpt":"A weekly tournament held at No Pause Gaming in Provo, hosting brackets for Smash 4, Pokkén Tournament DX, and Rivals of Aether. –Venue– -Competitor Venue Cost: $5 -Venue fee is waived for the first players who bring 2 full setups for Smash 4 and Pokkén Tournament DX (monitors provided by...","categories": [],
         "tags": ["pokken","super-smash-brothers","aether"],
         "url": "https://utahesports.net/events/2018-10-15-no-pause-weekly",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
@@ -393,6 +398,11 @@ var store = [{
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "https://utahesports.net/events/2018-10-19-Fortnite-Friday",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-10-19-ROG-Arena-Fortnite-Fridays",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Spooktober Virtual Reality/LAN Event",
         "excerpt":"Get ready for the first ever UVU Esports VR event. Thanks to our sponsors at No Pause Gaming and Virtual Experience, as well as a few of our members, we are putting on the spookiest VR event in Utah. We’ll be running some tournaments for a few different games on...","categories": [],
@@ -418,6 +428,11 @@ var store = [{
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "https://utahesports.net/events/2018-10-26-Fortnite-Friday",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-10-26-ROG-Arena-Fortnite-Fridays",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Spooky Smash $100 Pot Bonus",
         "excerpt":"WE WILL BE HOSTING A COSTUME CONTEST FOR ALL OF THOSE THAT ENTER THE TOURNAMENT. WHOEVER HAS BEST COSTUMES WILL WIN A GAMING CHAIR: https://www.amazon.com/gp/product/B01N1YL4DL/ref=oh_aui_detailpage_o00_s00?ie=UTF8&amp;psc=1 $100 POT BONUS FOR BOTH MELEE AND SMASH 4 SINGLES. InfoCompete one v one with players across Utah in our gaming facility. The tournament will...","categories": [],
@@ -459,6 +474,11 @@ var store = [{
         "tags": ["fortnite"],
         "url": "https://utahesports.net/events/2018-11-02-Western-Digital-Fortnite-Tournament",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-11-02-ROG-Arena-Fortnite-Fridays",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Worlds Viewing Party",
         "excerpt":"Come and experience Worlds 2018 with your peers and club officers!! This is a potluck event and would appreciate everyone joining to pitch in, but we will have PIZZA! (first come first serve) ","categories": [],
         "tags": ["league-of-legends"],
@@ -479,6 +499,16 @@ var store = [{
         "tags": ["fornite"],
         "url": "https://utahesports.net/events/2018-11-09-Fortnite-Friday",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-11-09-ROG-Arena-Fortnite-Fridays",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "Fortnite Friday",
+        "excerpt":"Event DescriptionThe Salt Packet is bringing to the table what many of our Utahn players love– Money Matches. That’s right, Super Smash Bros. for WiiU players will have hours upon hours of amazing money matches. Ever been salty at someone’s Luigi after a terrible bracket run? Ever needed to prove...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-11-10-The-Salt-Packet",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Nokto Smash Weekly",
         "excerpt":"Hi everyone! Come to the inaugural Nokto Smash Weekly. We’ll be playing Super Smash Bros. for Wii U every Thursday night at 7:00 PM. We’ll have singles, doubles tournaments, and soda. It’ll be pretty awesome. When: Thursday starting at 7 pm Where: 2000 Ashton Blvd. #300, Lehi UT 84043 Bracket...","categories": [],
         "tags": ["super-smash-brothers"],
@@ -493,6 +523,11 @@ var store = [{
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "https://utahesports.net/events/2018-11-16-Fortnite-Friday",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-11-16-ROG-Arena-Fortnite-Fridays",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Rocket League Weekly Rec League",
         "excerpt":"Venue Address: twitch.tv/theleagueesports Allowing players/teams to scrimmage in a competitive environment with an audience, pressure, and professional style management and commentary. ","categories": [],
@@ -509,15 +544,30 @@ var store = [{
         "tags": ["rocket-league"],
         "url": "https://utahesports.net/events/2018-11-29-Rocket-League-Weekly-Rec-League",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "SLC Bar Fights",
+        "excerpt":"Quarters Arcade Bar is proud to host the 801 bar fights. Come by and test your skills at Street Fighter 5 and Tekken 7 in a double elimination tournament. $5.00 per game to enter, we’ll start at 7pm. ","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-11-29-SLC-Bar-Fights",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "https://utahesports.net/events/2018-11-30-Fortnite-Friday",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-11-30-ROG-Arena-Fortnite-Fridays",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Fortnite Friday",
         "excerpt":"Join us every Friday for our Fortnite competition! Then on the last Friday of the month, enter the final tournament for a chance to win $100 CASH! In this 2 vs 2 mode, two duos will drop together in a squad. The objective is to get as many kills as...","categories": [],
         "tags": ["fornite"],
         "url": "https://utahesports.net/events/2018-12-07-Fortnite-Friday",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-12-07-ROG-Arena-Fortnite-Fridays",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "UNC Holiday Party",
         "excerpt":"Join us for our the Utah Nintendo Community November event on Saturday, December 8tth from 1:30 to 4:30 pm MST. RSVP now to get notifications when more details are posted. With Super Smash Bros. Ultimate releasing on Friday, December 7th, you can guarantee that we will be playing A LOT...","categories": [],
@@ -539,8 +589,33 @@ var store = [{
         "tags": ["fornite"],
         "url": "https://utahesports.net/events/2018-12-28-Fortnite-Friday",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2019-01-14-ROG-Arena-Fortnite-Fridays",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2019-01-11-ROG-Arena-Fortnite-Fridays",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2019-01-18-ROG-Arena-Fortnite-Fridays",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2019-01-25-ROG-Arena-Fortnite-Fridays",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Salt Con",
         "excerpt":"Utah’s Largest Board Game Convention ","categories": [],
         "tags": [],
         "url": "https://utahesports.net/events/2019-02-28-Salt-Con",
+        "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
+        "title": "ROG Arena: Fortnite Fridays at City Creek",
+        "excerpt":"Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards! Visit your local store on Fridays from 5:30 PM - 9:00 PM to participate. Sign up is free and all hardware is...","categories": [],
+        "tags": [],
+        "url": "https://utahesports.net/events/2018-12-14-ROG-Arena-Fortnite-Fridays",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},]
