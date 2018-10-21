@@ -5,7 +5,7 @@ permalink: /calendar
 header:
   teaser: "/assets/images/pages/calendar/utah-esports-calendar.png"
 ---
-<script type="text/javascript" src="/assets/js/moment.min.js"></script>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.css">
 <link rel="stylesheet" media="print" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.print.min.css">
@@ -26,8 +26,7 @@ header:
       },
       defaultView: w < 767 ? 'listWeek' : 'month',
       events:'/calendar-data'
-    })
-
+    });
   });
 </script>
 
