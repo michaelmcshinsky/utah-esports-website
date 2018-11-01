@@ -455,7 +455,7 @@ var store = [{
         "url": "https://utahesports.net/events/2018-11-01-Rocket-League-Weekly-Rec-League",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
         "title": "Extra Life Fundraiser",
-        "excerpt":"We are hosting a collaborative event involving local teams, streamers, businesses, and gamers in Salt Lake City and the surrounding area as we raise money for Primary Children’s Hospital in Downtown SLC. Your donation is tax-deductible and will make miracles happen for families who desperately need them. Thank you so...","categories": [],
+        "excerpt":"This is a charity event for Primary Children’s Hospital. It will be a 24-hour event with esports tournaments, table top tournaments, virtual reality, a silent auction, a blood drive, prizes and food. Proceeds of the event go to our Extra Life donation. There won’t be an entry fee but a...","categories": [],
         "tags": ["Halo","Fortnite","Mario-Kart","Rocket-League"],
         "url": "https://utahesports.net/events/2018-11-02-Extra-Life-Fundraiser",
         "teaser":"https://utahesports.net/assets/images/site/logo-square.png"},{
