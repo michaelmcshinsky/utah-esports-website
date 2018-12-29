@@ -688,4 +688,9 @@ var store = [{
         "excerpt":"Utah’s Largest Board Game Convention ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2019-02-28-Salt-Con",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Pop Con",
+        "excerpt":"“There’s no place like home.” - The Wizard of Oz Pop Culture Convention is proud to announce our next event, #popcon19! Join us on June 1, 2019, from 10 AM to 6 PM. Be sure to RSVP to receive important information about the event. Tickets and exhibitor tables go on...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2018-06-01-SKS-Smash-Ultimate",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},]

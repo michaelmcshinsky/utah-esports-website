@@ -553,6 +553,10 @@
 <lastmod>2019-02-28T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/events/2018-06-01-SKS-Smash-Ultimate</loc>
+<lastmod>2019-06-01T00:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/events/2018-08-03-August-Lan-Party</loc>
 </url>
 <url>
@@ -965,6 +969,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/events/2019-02-28-Salt-Con</loc>
+</url>
+<url>
+<loc>http://localhost:4000/events/2018-06-01-SKS-Smash-Ultimate</loc>
 </url>
 <url>
 <loc>http://localhost:4000/calendar-data</loc>
