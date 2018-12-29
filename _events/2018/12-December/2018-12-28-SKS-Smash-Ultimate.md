@@ -17,6 +17,7 @@ venue_state: "Utah"
 venue_zipcode: "84115"
 venue_url: "http://watchtower-cafe.com/"
 tags: super-smash-brothers
+featured: true
 ---
 
 Info Compete one versus one with players across Utah in our gaming facility. The tournament will begin Dec. 14 at 7:00 PM. Come ready to compete and have fun!

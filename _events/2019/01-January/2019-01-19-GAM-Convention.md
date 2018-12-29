@@ -17,6 +17,7 @@ venue_state: "Utah"
 venue_zipcode: "84078"
 venue_url: "https://www.facebook.com/events/718810571817391/"
 tags: 
+featured: true
 ---
 
 GAM is a video gaming convention and so much more! Our family-friendly event is a fun gathering place for fans of video games, cartoons, music, costumes, and pop culture! Please join us for free play, tournaments, prizes, and an excellent time!
