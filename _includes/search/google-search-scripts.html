@@ -21,10 +21,12 @@
   }
 
   {% if site.google.instant_search %}
+  (function ( $ ) { 
     $(document).ready(function () {
       $('input#cse-search-input-box-id').on('keyup', function () {
         googleCustomSearchExecute();
       });
     });
+  }( jQuery ));
   {% endif %}
 </script>
