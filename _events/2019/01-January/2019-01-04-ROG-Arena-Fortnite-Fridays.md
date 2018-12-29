@@ -17,6 +17,7 @@ venue_state: "Utah"
 venue_zipcode: "84101"
 venue_url: "https://smash.gg/tournament/rog-arena-fortnite-fridays-at-city-creek"
 tags: 
+featured: true
 ---
 
 Welcome to ROG Arena: Fortnite Fridays at Microsoft Store! We are excited to be hosting weekly Fortnite events and opportunities to compete in-store for Microsoft Store Gift Cards!
