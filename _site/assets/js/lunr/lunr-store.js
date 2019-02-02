@@ -684,10 +684,45 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/events/2019-01-25-ROG-Arena-Fortnite-Fridays",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Super Smash Brothers",
+        "excerpt":"Payment of the venue fee gets you a free J Dawg provided by our sponsor J Dawgs, as well as unlimited free play until we close at midnight, regardless of whether you enter the tournament. Come by and play friendly matches if you like! We will waive your entry fee...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2019-02-05-Super-Smash-Brothers",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Game Den Fisticuffs",
+        "excerpt":"Come and play some fighting games with other people in competition. We will be supplying FREE pizza for all that come and play. This time around we will be adding: Bonuses to the prize pool! More people equals more bonuses!Raffle prizes for those that come! We will be running tournaments...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2019-02-09-Game-Den-Fisticuffs",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "UPL CS:GO LAN",
+        "excerpt":"Join us for a Super Smash Bros tournament, Halo FFA tournament, and an open LAN. There will be prizes and food. Come hang out and have fun. Signup for the Smash Tournament here: https://goo.gl/forms/xwDafpbygBB22DRI2Signup for the Halo Tournament by contacting Paul Williams:Email: 10764214@my.uvu.eduText: 435-557-6224 February 9th at 7 PM in...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2019-02-09-Super-Smash-Bros-Tournament-Spring-Opening-Social",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "February 801|BarFights at Quarters!",
+        "excerpt":"Our second Ultimate monthly! Coming off of an astounding 150 entrants in January, we’re looking to double down with a tighter schedule and even more entrants! Continuing in the tradition of our monthly events, this event will feature a doubles bracket as well as bracket pools for singles, with an...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2019-02-16-Ascension-II",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "February 801|BarFights at Quarters!",
+        "excerpt":"January Bar fights is ready to roll! Test your skill in SFV and Tekken 7. Each tournament is double elimination, bring your own controller. $5.00 per game to enter! Its a quick drive downtown, you can also take trax and walk from the 600 S. Stop (about 1.5 blocks). If...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2019-02-21-BarFights-at-Quarters",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "UPL CS:GO LAN",
+        "excerpt":"Greetings, CSUtah members. We are happy to announce that the next CS:GO LAN will be hosted on Saturday, February 23rd, 2019 by 801Labs[www.801labs.org] in Salt Lake City. Finding a TeamLooking to join a team or create a team? Look no further. Visit the lookingforteam channel in the CSUtah Discord. Register...","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2019-02-23-UPL-CSGO-LAN",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Salt Con",
         "excerpt":"Utah’s Largest Board Game Convention ","categories": [],
         "tags": [],
         "url": "http://localhost:4000/events/2019-02-28-Salt-Con",
+        "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
+        "title": "Prove It",
+        "excerpt":"Ever wanted to be a pro eSports player? Now is your chance! GYO combine for eSports amateurs. Compete over 10 days in popular titles like league of legends, PUBG Smite and many more! DM us for sign up information at our LAN Center! ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/events/2019-03-01-Prove-It",
         "teaser":"http://localhost:4000/assets/images/site/logo-square.png"},{
         "title": "Pop Con",
         "excerpt":"“There’s no place like home.” - The Wizard of Oz Pop Culture Convention is proud to announce our next event, #popcon19! Join us on June 1, 2019, from 10 AM to 6 PM. Be sure to RSVP to receive important information about the event. Tickets and exhibitor tables go on...","categories": [],
