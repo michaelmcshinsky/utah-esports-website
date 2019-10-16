@@ -17,7 +17,8 @@ permalink: /social-groups
   <hr/>
   <div class="row">
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Super Smash Brothers</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Super Smash Brothers</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "super-smash-brothers" %}
           <div>
@@ -27,7 +28,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">League of Legends</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">League of Legends</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "league-of-legends" %}
           <div>
@@ -37,7 +39,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Starcraft</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Starcraft</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "starcraft" %}
           <div>
@@ -47,7 +50,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Halo</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Halo</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "halo" %}
           <div>
@@ -57,7 +61,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Dota 2</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Dota 2</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "dota" %}
           <div>
@@ -67,7 +72,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Hearthstone</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Hearthstone</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "hearthstone" %}
           <div>
@@ -77,7 +83,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Heroes of the Storm</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Heroes of the Storm</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "heroes-of-the-storm" %}
           <div>
@@ -87,7 +94,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Call of Duty</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Call of Duty</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "call-of-duty" %}
           <div>
@@ -97,7 +105,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Battlefield</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Battlefield</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "battlefield" %}
           <div>
@@ -107,7 +116,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Overwatch</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Overwatch</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "overwatch" %}
           <div>
@@ -117,7 +127,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Counterstrike</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Counterstrike</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "counterstrike" %}
           <div>
@@ -127,7 +138,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Warcraft</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Warcraft</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "warcraft" %}
           <div>
@@ -137,7 +149,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Fortnite</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Fortnite</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "fortnite" %}
           <div>
@@ -147,7 +160,8 @@ permalink: /social-groups
       {% endfor %}
     </div>
     <div class="col-xs-6 col-sm-4">
-      <h3 style="margin-top: 50px;">Misc</h3>
+      <h3 style="margin-top: 50px;font-size: 20px;">Misc</h3>
+      <br/>
       {% for group in site.data.social-groups %}
         {% if group.tag == "misc" %}
           <div>

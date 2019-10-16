@@ -17,7 +17,7 @@ permalink: /venues
   <div class="row">
     {% for venue in site.data.venues %}
       <div class="col-xs-6 col-sm-4" style="margin-top: 50px;">
-        <img src="/assets/images/vendors/{{ venue.image }}.png" alt="{{ venue.name }}"/>
+        <a href="{{ venue.url }}" target="_blank"><img src="/assets/images/vendors/{{ venue.image }}.png" alt="{{ venue.name }}"/></a>
         <h3 style="margin-top: 15px;">{{ venue.name }}</h3>
         {% if venue.url %}
           <div><a href="{{ venue.url }}" target="_blank">Website</a></div>

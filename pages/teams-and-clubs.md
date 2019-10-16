@@ -22,7 +22,8 @@ permalink: /teams-and-clubs
         </a>
         <h3 style="margin-top: 15px;">{{ team.name }}</h3>
         {% if team.level %}
-          <div><a href="{{ team.level }}" target="_blank"><i>Level: {{ team.level }}</i></a></div>
+          <div><a href="{{ team.level }}" target="_blank"><i><strong>Level:</strong></i> {{ team.level }}</a></div>
+          <hr/>
         {% endif %}
         {% if team.url %}
           <div><a href="{{ team.url }}" target="_blank">Website</a></div>
